@@ -1,1 +1,5 @@
+#Ignore the temp directory and it's contents
 tmp
+#Ignore files that are generated
+*.docx
+*.pdf
