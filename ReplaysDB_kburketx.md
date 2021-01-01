@@ -8,8 +8,8 @@
 # **ACM**  
 ---
 
-Thank you for attending Comprehension and Evolution of Combinatorial Models and Test Plans. This webcast is now on-demand, should you like to view it again.
-Use the link below to enter the webcast at any time.
+Thank you for attending Comprehension and Evolution of Combinatorial Models and Test Plans. This webcast is now on-demand, should you like to view it again.  
+Use the link below to enter the webcast at any time.  
 WEBCAST LINK:  <https://event.on24.com/wcc/r/2702657/0F5530316485FF3B40B7544C8AFD92FA?mode=login&email=kburketx@verizon.net>  
 
 A friendly reminder that It's Time Deep Learning Learned from Software Engineering begins in two days.
@@ -27,12 +27,12 @@ EMAIL:  kburketx@verizon.net
 Leave your questions for the Q&A and comments now, during, and after the talk on ACM's Discourse Page at http://on.acm.org/.
 
 
-#**O'Reilly Online Learning**  
+# **O'Reilly Online Learning**  
 ---
 
-##**Superstream Series**  
+## **Superstream Series**  
 
-###Infrastructure & Ops Superstream Series  
+### Infrastructure & Ops Superstream Series  
 
 <https://learning.oreilly.com/live-training/courses/oreilly-infrastructure-ops-superstream-series/0636920410027/>
 
@@ -40,39 +40,43 @@ Leave your questions for the Q&A and comments now, during, and after the talk on
 <https://learning.oreilly.com/live-training/courses/software-architecture-superstream-series/0636920444961/>  
 
 ---  
-#HBR
-##Data Science and the Art of Persuasion  
+
+# HBR  
+## Data Science and the Art of Persuasion  
 <https://hbr.org/webinar/2020/09/ask-hbr-data-science-and-the-art-of-persuasion?utm_medium=email&utm_source=webinar&utm_campaign=askhbr_sas_berinato_20201020&utm_content=thankyou&deliveryName=DM101938>  
 
----  
-#OIC  - Options Industry Council  
+--- 
+
+# OIC  - Options Industry Council  
 <https://event.on24.com/wcc/r/2646796/499AECAF336C0C0DC5C0AFFBF4649392/1527710?mode=login&email=kburketx@verizon.net&mr=s>  
 
-##Financial Engineering with Options  - Session 1
+## Financial Engineering with Options  - Session 1
 <https://event.on24.com/wcc/r/2646796/499AECAF336C0C0DC5C0AFFBF4649392?mode=login&email=kburketx@verizon.net>  
 
-##Financial Engineering with Options  - Session 2
+## Financial Engineering with Options  - Session 2
 <https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?&eventid=2646858&sessionid=1&username=&partnerref=&format=fhvideo1&mobile=&flashsupportedmobiledevice=&helpcenter=&key=6B313BCD4B01EF8FEB74D185F01E1D02&newConsole=true&nxChe=true&text_language_id=en&playerwidth=748&playerheight=526&eventuserid=355222411&contenttype=A&mediametricsessionid=318216595&mediametricid=3731352&usercd=355222411&mode=launch>  
 
 <https://event.on24.com/wcc/r/2646858/6B313BCD4B01EF8FEB74D185F01E1D02?mode=login&email=kburketx@verizon.net>  
 
 <https://event.on24.com/wcc/r/2646796/499AECAF336C0C0DC5C0AFFBF4649392?mode=login&email=kburketx@verizon.net> 
 
-#Option Strategies to Potentially Generate Income. 
+# Option Strategies to Potentially Generate Income. 
 LIVE WEBCAST DATE:  October 21, 2020 
 LIVE WEBCAST TIME:  03:30 PM CDT 
 Use the link below to enter the webcast up to 15 minutes before the start. 
 WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D7D5> 
 
-##The Greeks: Theta, Vega, and Rho  
+## The Greeks: Theta, Vega, and Rho   
 <http://go.pardot.com/e/514201/1615-partnerref-pardotondemand/3sdl5b8/779874587?h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>  
 
-##Volatility Strategies  
+## Volatility Strategies   
 <http://go.pardot.com/e/514201/ng-Y-partnerref-PardotOndemand/3sdl5bd/779874587?h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>  
 
 
-#O'Reilly  
+# O'Reilly  
+
 ---  
+
 ## How Routers Really Work  
 <https://learning.oreilly.com/live-training/courses/how-routers-really-work-network-operating-systems-and-packet-switching/0636920479130/>  
 
@@ -83,7 +87,7 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 <https://learning.oreilly.com/live-training/courses/building-a-deployment-pipeline-with-jenkins-2/0636920417286/>  
 
 ## Certified Jenkins Engineer (CJE) Crash Course  
-<
+<  >
 
 ## Techniques for Data Science with Big Datasets  
 <https://learning.oreilly.com/live-training/courses/techniques-for-data-science-with-big-datasets/0636920478959/>  
@@ -98,7 +102,7 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 ## Certified Jenkins Engineer (CJE) Crash Course  
 <https://learning.oreilly.com/live-training/courses/certified-jenkins-engineer-cje-crash-course/0636920463955/>  
 
-##Red Hat Certified Engineer - RHCE EX294 Crash Course - Red Hat Ansible  
+## Red Hat Certified Engineer - RHCE EX294 Crash Course - Red Hat Ansible  
 <https://learning.oreilly.com/live-training/courses/red-hat-certified-engineer-rhce-ex294-crash-course-red-hat-ansible-automation/0636920473749/>  
 
 ## Intermediate Python Classes  
@@ -191,7 +195,7 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 <https://learning.oreilly.com/live-training/courses/intermediate-sql-for-data-analysis/0636920425151/>  
 
 ## GIAC GSEC Crash Course
-https://learning.oreilly.com/live-training/courses/giac-gsec-crash-course/0636920426257/
+<https://learning.oreilly.com/live-training/courses/giac-gsec-crash-course/0636920426257/>  
 
 ## Microservices Application Decomposition  
 <https://learning.oreilly.com/live-training/courses/microservices-application-decomposition/0636920447641/>  
@@ -321,7 +325,7 @@ https://learning.oreilly.com/live-training/courses/giac-gsec-crash-course/063692
 
 
 
-###Intermediate SQL for data analysis
+## Intermediate SQL for data analysis
 <https://learning.oreilly.com/live-training/courses/intermediate-sql-for-data-analysis/0636920382676/>  
 
 
@@ -381,8 +385,6 @@ https://learning.oreilly.com/live-training/courses/giac-gsec-crash-course/063692
 ## Implementing Service Level Objectives  
 <https://learning.oreilly.com/live-training/courses/implementing-service-level-objectives/0636920440567/>    
 
-
-
 ## Architecture foundations: Styles, patterns, and trade-offs 
 Neal Ford  
 <https://learning.oreilly.com/live-training/courses/architecture-foundations-styles-patterns-and-trade-offs/0636920419273/>  
@@ -396,7 +398,6 @@ Sean Kane
 ## Microservice Collaboration  
 Sam Newman  
 <https://learning.oreilly.com/live-training/courses/microservice-collaboration/0636920429579/>  
-
 
 ## Linux Under the Hood
 Sander Van Vugt  
