@@ -76,6 +76,8 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 # O'Reilly  
 
 ---  
+## Building a Modern Data Platform with Snowflake  
+<https://learning.oreilly.com/live-training/courses/building-a-modern-data-platform-with-snowflake/0636920511007/>  
 
 ## How Routers Really Work  
 <https://learning.oreilly.com/live-training/courses/how-routers-really-work-network-operating-systems-and-packet-switching/0636920479130/>  
