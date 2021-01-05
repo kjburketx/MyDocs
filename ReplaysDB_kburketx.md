@@ -76,6 +76,9 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 # O'Reilly  
 
 ---  
+## SAFe First Steps  
+<https://learning.oreilly.com/live-training/courses/safe-first-steps/0636920508861/>  
+
 ## Building a Modern Data Platform with Snowflake  
 <https://learning.oreilly.com/live-training/courses/building-a-modern-data-platform-with-snowflake/0636920511007/>  
 
