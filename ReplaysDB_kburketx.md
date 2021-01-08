@@ -76,6 +76,17 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 # O'Reilly  
 
 ---  
+
+++MARK++ 
+## Introduction to Kanban  
+<https://learning.oreilly.com/live-training/courses/introduction-to-kanban/0636920506751/>  
+
+## Software Architecture Hour: Architecture Meets Data  
+<https://learning.oreilly.com/live-training/courses/software-architecture-hour-architecture-meets-data/0636920052137/>  
+
+## Agile for distributed teams in 90 minutes  
+<https://learning.oreilly.com/live-training/courses/agile-for-distributed-teams-in-90-minutes/0636920501756/>  
+
 ## SAFe First Steps  
 <https://learning.oreilly.com/live-training/courses/safe-first-steps/0636920508861/>  
 
