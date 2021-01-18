@@ -78,6 +78,16 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 ---  
 
 ++MARK++ 
+
+
+
+## AWS Design Fundamentals  
+<https://learning.oreilly.com/live-training/courses/aws-design-fundamentals/0636920051556/>  
+
+
+## GitOps First Steps  
+<https://learning.oreilly.com/live-training/courses/gitops-first-steps/0636920480976/> 
+
 ## Introduction to Kanban  
 <https://learning.oreilly.com/live-training/courses/introduction-to-kanban/0636920506751/>  
 
@@ -179,17 +189,14 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 ## Meet the Expert: Lenny Rosenfeld on Building a Next-Gen Data Platform at Nasdaq  
 <https://learning.oreilly.com/live-training/courses/meet-the-expert-lenny-rosenfeld-on-building-a-next-gen-data-platform-at-nasdaq/0636920446019/>   
 
-
 ## Microservices Collaboration  
 <https://learning.oreilly.com/live-training/courses/microservice-collaboration/0636920429654/>
 
 ## Python for Excel Users First Steps  
 <https://learning.oreilly.com/live-training/courses/python-for-excel-users-first-steps/0636920463207/>  
 
-
 ## Linux Fundamentals Bootcamp  
 <https://learning.oreilly.com/live-training/courses/linux-fundamentals-bootcamp/0636920450436/>  
-
 
 ## Machine Learning from Scratch  
 <https://learning.oreilly.com/live-training/courses/machine-learning-from-scratch/0636920405849/>  
@@ -272,14 +279,11 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 ## Kubernetes in 4 hours  
 <https://learning.oreilly.com/live-training/courses/kubernetes-in-4-hours/0636920410683/>  
 
-
 ## Certified Kubernetes Administrator (CKA) Crash Course  
 <https://learning.oreilly.com/live-training/courses/certified-kubernetes-administrator-cka-crash-course/0636920412151/>  
 
-
 ## Database Design for Any IT Professional  
 <https://learning.oreilly.com/live-training/courses/database-design-for-any-it-professional/0636920449409/>  
-
 
 ## Containers in 4 Hours: Docker and Podman  
 <https://learning.oreilly.com/live-training/courses/containers-in-4-hours-docker-and-podman/0636920402909/>  
@@ -291,15 +295,11 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 ## Google Cloud Platform Associate Cloud Engineer Crash Course  
 <https://learning.oreilly.com/live-training/courses/google-cloud-platform-associate-cloud-engineer-crash-course/0636920413912/>  
 
-
-
 ## Google Cloud Platform Professional Cloud Architect Crash Course  
 <https://learning.oreilly.com/live-training/courses/google-cloud-platform-professional-cloud-architect-crash-course/0636920442318/>  
 
-
 ## DataOps Boot Camp: Kubernetes Data Storage and Retrieval  
 <https://learning.oreilly.com/live-training/courses/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446064/>  
-
 
 ## Containers in 4 Hours: Docker and Podman  
 <https://learning.oreilly.com/live-training/courses/containers-in-4-hours-docker-and-podman/0636920402909/>  
@@ -321,14 +321,11 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 2020/09/02  
 <https://learning.oreilly.com/live-training/courses/build-your-own-cybersecurity-lab-and-cyber-range/0636920402756/>  
 
-
 ## Intermediate SQL for data analysis  
 <https://learning.oreilly.com/live-training/courses/intermediate-sql-for-data-analysis/0636920382676/>    
 
-
 ## Communication Styles for Distributed Architectures and Microservices   
 <https://learning.oreilly.com/live-training/courses/communication-styles-for-distributed-architectures-and-microservices/0636920402213/>  
-
 
 ## Linux Performance Optimization  
 <https://learning.oreilly.com/live-training/courses/linux-performance-optimization/0636920442110/>  
@@ -339,27 +336,20 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 ## Mastering Microsoft Excel pivot tables 
 <https://learning.oreilly.com/live-training/courses/mastering-microsoft-excel-pivot-tables/0636920417668/>  
 
-
-
 ## Intermediate SQL for data analysis
 <https://learning.oreilly.com/live-training/courses/intermediate-sql-for-data-analysis/0636920382676/>  
-
 
 ## Ethical Hacking Bootcamp with Hands-on Labs
 <https://learning.oreilly.com/live-training/courses/ethical-hacking-bootcamp-with-hands-on-labs/0636920409250/>   
 
-
 ## Architecture: The Hard Parts
 <https://learning.oreilly.com/live-training/courses/architecture-the-hard-parts/0636920439196/>   
-
 
 ## Git Next Steps
 <https://learning.oreilly.com/live-training/courses/git-next-steps/0636920439158/>  
 
-
 ## Functional Programming with Python 3  
 <https://learning.oreilly.com/live-training/courses/functional-programming-with-python-3/0636920441779/>  
-
 
 ## Getting started with continuous delivery (CD)  
 <https://learning.oreilly.com/live-training/courses/getting-started-with-continuous-delivery-cd/0636920417040/>  
@@ -367,14 +357,11 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 ## Applied Probability Theory for Everyone  
 <https://learning.oreilly.com/live-training/courses/applied-probability-theory-for-everyone/0636920402237/>
 
-
 ## Kubernetes Operators with the Operator Framework and SDK  
 <https://learning.oreilly.com/live-training/courses/kubernetes-operators-with-the-operator-framework-and-sdk/0636920443889/>  
 
-
 ## Probability with Python: Essential Math for Data Science  
 <https://learning.oreilly.com/live-training/courses/probability-with-python-essential-math-for-data-science/0636920455974/>  
-
 
 ## Essential Math for Data Science (Jupyter Notebooks)  
 <https://learning.oreilly.com/jupyter-notebooks/essential-math-for/9781492063407/>  
@@ -383,16 +370,11 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 ## Expert Transport Layer Security (TLS)  
 <https://learning.oreilly.com/live-training/courses/expert-transport-layer-security-tls/0636920408024/>  
 
-
-
 ## Jupyter Notebook foundations  
 <https://learning.oreilly.com/live-training/courses/jupyter-notebook-foundations/0636920441212/>  
 
-
 ## Helm Fundamentals  
 <https://learning.oreilly.com/live-training/courses/helm-fundamentals/0636920437765/>  
-
-
 
 ## Introduction to the Go Programming Language  
 <https://learning.oreilly.com/live-training/courses/introduction-to-the-go-programming-language/0636920411741/>  
@@ -408,8 +390,6 @@ Neal Ford
 ## Docker: Up and Running  
 Sean Kane  
 <https://learning.oreilly.com/live-training/courses/docker-up-and-running/0636920437802/>  
-
-
 
 ## Microservice Collaboration  
 Sam Newman  
@@ -428,21 +408,17 @@ James Powell
 David Prowse  
 <https://learning.oreilly.com/live-training/courses/building-linux-servers-dhcp-dns-and-directory-services/0636920455059/>  
 
-
 ## Docker: Beyond the Basics (CI & CD)
 Sean Kane  
 <https://learning.oreilly.com/live-training/courses/docker-beyond-the-basics-ci-cd/0636920437871/>  
-
 
 ## AI on the Google Cloud Platform First Steps  
 Micheal Lanham  
 <https://learning.oreilly.com/live-training/courses/ai-on-the-google-cloud-platform-first-steps/0636920437000/>  
 
-
 ## Mastering Patterns in Event-Driven Architecture  
 Mark Richards  
 <https://learning.oreilly.com/live-training/courses/mastering-patterns-in-event-driven-architecture/0636920440239/>  
-
 
 ## Mastering SELinux  
 Sander Van Vugt  
@@ -451,7 +427,6 @@ Sander Van Vugt
 ## Software Architecture Foundations: Characteristics and Tradeoffs  
 Neal Ford  
 <https://learning.oreilly.com/live-training/courses/software-architecture-foundations-characteristics-and-tradeoffs/0636920419211/>  
-
 
 ## Functional Programming with Python 3  
 Shaun Wassell  
