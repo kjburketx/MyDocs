@@ -72,18 +72,26 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 ## Volatility Strategies   
 <http://go.pardot.com/e/514201/ng-Y-partnerref-PardotOndemand/3sdl5bd/779874587?h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>  
 
+# Red Hat  
+
+
 
 # O'Reilly  
 
 ---  
 
 ++MARK++ 
+## Service Level Objectives & Maintenance Windows  
+<https://learning.oreilly.com/live-training/courses/service-level-objectives-and-maintenance-windows/0636920051188/>>
 
+## Automating with Ansible - 20210120
+<https://learning.oreilly.com/live-training/courses/automating-with-ansible/0636920490371/>  
 
+## #Hands-On Introduction to Software Testing
+<https://learning.oreilly.com/live-training/courses/hands-on-introduction-to-software-testing/0636920479390/>
 
 ## AWS Design Fundamentals  
 <https://learning.oreilly.com/live-training/courses/aws-design-fundamentals/0636920051556/>  
-
 
 ## GitOps First Steps  
 <https://learning.oreilly.com/live-training/courses/gitops-first-steps/0636920480976/> 
