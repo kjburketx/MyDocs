@@ -33,6 +33,9 @@ Leave your questions for the Q&A and comments now, during, and after the talk on
 ## **Superstream Series**  
 
 ### Infrastructure & Ops Superstream Series  
+- 27Jan2021  
+
+<https://learning.oreilly.com/live-training/courses/infrastructure-ops-superstream-series-cicd/0636920051970/?utm_medium=email&utm_source=platform+B2C&utm_campaign=superstream&utm_content=20210128+reminder4+io>  
 
 <https://learning.oreilly.com/live-training/courses/oreilly-infrastructure-ops-superstream-series/0636920410027/>
 
@@ -94,9 +97,73 @@ G0oncor2020!
 
 ---  
 
-++MARK++ 
+++MARK++
+
+# Git Troubleshooting  
+<https://learning.oreilly.com/live-training/courses/git-troubleshooting/0636920054058/>
+
+# Learn Angular 10 on the Spot  
+<https://learning.oreilly.com/live-training/courses/learn-angular-10-on-the-spot/0636920053971/>  
+
+# Software Architecture Hour: Architecture and Security with Aaron Bedra  
+<https://learning.oreilly.com/live-training/courses/software-architecture-hour-architecture-and-security-with-aaron-bedra/0636920053259/> 
+
+# Hands-on Software Design
+<https://learning.oreilly.com/live-training/courses/hands-on-software-design/0636920054348/>
+
+#Linux Performance Optimization  
+<https://learning.oreilly.com/live-training/courses/linux-performance-optimization/0636920442110/>  Passcode: 271200
+
+# Getting Started with OpenShift  
+<https://learning.oreilly.com/live-training/courses/getting-started-with-openshift/0636920051444/>  
+
+# Mastering Systemd
+<https://learning.oreilly.com/live-training/courses/mastering-systemd/0636920051439/> 
+
+
+# TimeSeriesAnalysisForBusinessAnalytics
+<https://learning.oreilly.com/live-training/courses/time-series-analysis-for-business-analytics/0636920051369/>
+
+# Software Architecture Superstream Series: Software Architecture Fundamentals
+<https://learning.oreilly.com/live-training/courses/software-architecture-superstream-series-software-architecture-fundamentals/0636920053225/> 
+
+# 60 m<inutes to designing a better PowerPoint slide  
+<https://learning.oreilly.com/live-training/courses/60-minutes-to-designing-a-better-powerpoint-slide/0636920052230/>
+
+# Software Architecture Foundations: Characteristics and Tradeoffs  
+<https://learning.oreilly.com/live-training/courses/software-architecture-foundations-characteristics-and-tradeoffs/0636920499602/>  
+
+# Red Hat Certified System Administrator
+<https://learning.oreilly.com/live-training/courses/red-hat-certified-system-administrator-rhcsa-crash-course/0636920051405/> 
+
+# Continuous Delivery in Kubernetes with ArgoCD  
+<https://learning.oreilly.com/live-training/courses/continuous-delivery-in-kubernetes-with-argocd/0636920511267/>   
+
+# Building a Kubernetes Operator: Extending Kubernetes to Fit Your Applications  
+<https://learning.oreilly.com/live-training/courses/building-a-kubernetes-operator-extending-kubernetes-to-fit-your-applications/0636920511243/>  
+
+# Agile for SRE  
+<https://learning.oreilly.com/live-training/courses/agile-for-sre/0636920053027/>  
+
+# Meet the Expert: Barr Moses on Eliminating Data Downtime  
+<https://learning.oreilly.com/live-training/courses/meet-the-expert-barr-moses-on-eliminating-data-downtime/0636920508847/>  
+
+
+## Getting Started with Continuous Delivery  
+<https://learning.oreilly.com/live-training/courses/getting-started-with-continuous-delivery-cd/0636920510581/>  
+
+## Using Ansible Tower - Learn to Manage Ansible from a Web Interface  
+<https://learning.oreilly.com/live-training/courses/using-ansible-tower/0636920051155/>  
+
+## Kubernetes in Three Weeks - Feb 3, 10, 17 2021
+<https://learning.oreilly.com/live-training/courses/kubernetes-in-three-weeks-part-iiapplication-patterns-observability-extensibility-and-operators/0636920505778/>  
+
+
 ## Container-Based Devops in 4 Weeks: Docker, Podman, Kubernetes and OpenShift
 <https://learning.oreilly.com/live-training/courses/container-based-devops-in-4-weeks-docker-podman-kubernetes-and-openshift/0636920509431/>  
+
+## Getting Started with OpenShift  
+<https://learning.oreilly.com/live-training/courses/getting-started-with-openshift/0636920490517/>  
 
 ## Red Hat Certified System Administrator (RHCSA) Crash Course
 <https://learning.oreilly.com/live-training/courses/red-hat-certified-system-administrator-rhcsa-crash-course/0636920490555/>  
