@@ -77,8 +77,9 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>  
 
 # Red Hat  
-## Red Hat Ansible Automation Platform roadmap update  
+## Red Hat Ansible Automation Platform roadmap update-4/15/21  
 <https://isolate.menlosecurity.com/1/3735928009/https://onlinexperiences.com/Launch/Event.htm?ShowKey=147958>  
+
 
 ## Introduction to Application Streams in Red Hat Enterprise Linux 8
 <https://app.engage.redhat.com/e/er?s=1795&lid=192430&elqTrackId=f37053752ea943eca4a85b3931364cf5&elq=dc049ffdc81a4191b06ab4f51c80e84b&elqaid=79720&elqat=1>  
@@ -102,6 +103,15 @@ G0oncor2020!
 ---  
 
 ++MARK++
+
+# Terraform in the Cloud
+<https://learning.oreilly.com/attend/terraform-in-the-cloud/0636920401407/0636920053078/> 
+
+# Google Cloud Platform Professional Cloud Architect Crash Course
+<https://learning.oreilly.com/attend/google-cloud-platform-professional-cloud-architect-crash-course/0636920400318/0636920053930/>  
+
+# Getting Started with OpenShift 
+<https://learning.oreilly.com/live-training/courses/getting-started-with-openshift/0636920051444/>  
 
 # Getting Started with Google Cloud Platform (GCP)  
 <https://learning.oreilly.com/attend/getting-started-with-google-cloud-platform-gcp/0636920134206/0636920053688/>  
