@@ -102,7 +102,28 @@ G0oncor2020!
 
 ---  
 
-++MARK++
+++MARK++  
+
+# Getting Started with OpenShift  
+<https://learning.oreilly.com/attend/getting-started-with-openshift/0636920244301/0636920054395/>  
+
+# Elasticsearch: First Steps  
+<https://learning.oreilly.com/attend/elasticsearch-first-steps/0636920055067/0636920055070/>  
+
+# Infrastructure & Ops Hour: DevSecOps with Patrick Debois  
+<https://learning.oreilly.com/attend/infrastructure-ops-hour-devsecops-with-patrick-debois/0636920055190/0636920055189/>
+
+# System Design Fundamentals
+<https://learning.oreilly.com/attend/system-design-fundamentals-righting-software/0636920364030/0636920054661/> 
+
+# MongoDB Fundamentals    
+<https://learning.oreilly.com/attend/mongodb-fundamentals/0636920478454/0636920056289/>  
+
+# Google Cloud Platform Professional Cloud Architect Crash Course  
+<https://learning.oreilly.com/attend/google-cloud-platform-professional-cloud-architect-crash-course/0636920400318/0636920053930/>  
+
+# AWS Technical Essentials 
+<https://learning.oreilly.com/attend/aws-technical-essentials/0636920192039/0636920052025/>  
 
 # Terraform in the Cloud
 <https://learning.oreilly.com/attend/terraform-in-the-cloud/0636920401407/0636920053078/> 
@@ -110,15 +131,28 @@ G0oncor2020!
 # Google Cloud Platform Professional Cloud Architect Crash Course
 <https://learning.oreilly.com/attend/google-cloud-platform-professional-cloud-architect-crash-course/0636920400318/0636920053930/>  
 
+# Red Hat Certified Specialist in OpenShift Administration (EX280) Crash Course
+<https://learning.oreilly.com/attend/red-hat-certified-specialist-in-openshift-administration-ex280-crash-course/0636920053762/0636920053761/>  
+
+# Red Hat Certified Specialist in Containers and Kubernetes (EX180) Crash Course  
+<https://learning.oreilly.com/attend/red-hat-certified-specialist-in-containers-and-kubernetes-ex180-crash-course/0636920053764/0636920053763/>  
+
+
 # Getting Started with OpenShift 
 <https://learning.oreilly.com/live-training/courses/getting-started-with-openshift/0636920051444/>  
 
 # Getting Started with Google Cloud Platform (GCP)  
 <https://learning.oreilly.com/attend/getting-started-with-google-cloud-platform-gcp/0636920134206/0636920053688/>  
 
+# Infrastructure & Ops Hour: Kubernetes Complexity with Katie Gamanji  
+<https://learning.oreilly.com/attend/infrastructure-ops-hour-kubernetes-complexity-with-katie-gamanji/0636920054069/0636920054068/>  
+
 
 # TCP/IP Fundamentals  
 <https://learning.oreilly.com/attend/tcpip-fundamentals/0636920345237/0636920053554/>  
+
+# Mastering Technical Presentations by Example
+<https://learning.oreilly.com/attend/mastering-technical-presentations-by-example/0636920054747/0636920054746/>  
 
 # Next Level Git - Master your workflow  
 <https://learning.oreilly.com/attend/next-level-git-master-your-workflow/0636920190240/0636920053593/>  
