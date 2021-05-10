@@ -104,6 +104,12 @@ G0oncor2020!
 
 ++MARK++  
 
+# Data Ingestion of Hierarchical and Other Data Formats: Cleaning Data for Effective Data Science
+<https://learning.oreilly.com/attend/data-ingestion-of-hierarchical-and-other-data-formats-cleaning-data-for-effective-data-science/0636920439943/0636920055707/>  
+
+# Functional Programming with Python 3
+<https://learning.oreilly.com/attend/functional-programming-with-python-3/0636920376620/0636920055328/>  
+
 # Getting Started with OpenShift  
 <https://learning.oreilly.com/attend/getting-started-with-openshift/0636920244301/0636920054395/>  
 
