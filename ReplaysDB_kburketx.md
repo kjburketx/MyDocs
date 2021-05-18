@@ -104,6 +104,16 @@ G0oncor2020!
 
 ++MARK++  
 
+# BuildingAKubernetesOperator
+
+
+# AlgorithmicRiskManagementInTradingAndInvesting
+<
+
+# Building a Future-Proof Cloud Infrastructure  
+<https://learning.oreilly.com/attend/building-a-future-proof-cloud-infrastructure/0636920051700/0636920056017/>
+
+
 # Data Ingestion of Hierarchical and Other Data Formats: Cleaning Data for Effective Data Science
 <https://learning.oreilly.com/attend/data-ingestion-of-hierarchical-and-other-data-formats-cleaning-data-for-effective-data-science/0636920439943/0636920055707/>  
 
