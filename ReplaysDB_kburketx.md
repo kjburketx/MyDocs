@@ -8,21 +8,20 @@
 # **ACM**  
 ---
 
-Thank you for attending Comprehension and Evolution of Combinatorial Models and Test Plans. This webcast is now on-demand, should you like to view it again.  
+# Thank you for attending Comprehension and Evolution of Combinatorial Models and Test Plans. This webcast is now on-demand, should you like to view it again.  
 Use the link below to enter the webcast at any time.  
 WEBCAST LINK:  <https://event.on24.com/wcc/r/2702657/0F5530316485FF3B40B7544C8AFD92FA?mode=login&email=kburketx@verizon.net>  
 
-A friendly reminder that It's Time Deep Learning Learned from Software Engineering begins in two days.
+# A friendly reminder that It's Time Deep Learning Learned from Software Engineering begins in two days.
 LIVE WEBCAST DATE:  November 02, 2020
 LIVE WEBCAST TIME:  01:00 PM EST 
 Use the link below to enter the webcast up to 15 minutes before the start.
 WEBCAST LINK:  <https://event.on24.com/wcc/r/2709113/A797526F9AA558F0B778491FB85C23AF?mode=login&email=kburketx@verizon.net>
 
 
-
-Thank you for attending It's Time Deep Learning Learned from Software Engineering. This webcast is now on-demand, should you like to view it again.
+# Thank you for attending It's Time Deep Learning Learned from Software Engineering. This webcast is now on-demand, should you like to view it again.
 Use the link below to enter the webcast at any time.
-WEBCAST LINK:  https://event.on24.com/wcc/r/2709113/A797526F9AA558F0B778491FB85C23AF?mode=login&email=kburketx@verizon.net
+WEBCAST LINK:  <https://event.on24.com/wcc/r/2709113/A797526F9AA558F0B778491FB85C23AF?mode=login&email=kburketx@verizon.net>  
 EMAIL:  kburketx@verizon.net 
 Leave your questions for the Q&A and comments now, during, and after the talk on ACM's Discourse Page at http://on.acm.org/.
 
@@ -100,19 +99,44 @@ G0oncor2020!
 # O'Reilly  
 ###note: Folders for each class can be found at N:\eBooks\OReilly
 
+
+
 ---  
 
+
+
 ++MARK++  
+# Elasticsearch: Next Steps
+<https://learning.oreilly.com/attend/elasticsearch-next-steps/0636920053461/0636920054223/>  
+
+# Infrastructure & Ops Superstream Series: Creating Your Kubernetes Platform  
+<https://learning.oreilly.com/attend/infrastructure-ops-superstream-series-creating-your-kubernetes-platform/0636920053245/0636920053244/>  
+
+# Service Level Objectives and Maintenance Windows
+<https://learning.oreilly.com/attend/service-level-objectives-and-maintenance-windows/0636920051189/0636920056685/> 
+
+# Continuous Delivery in Kubernetes with ArgoCD
+<https://learning.oreilly.com/attend/continuous-delivery-in-kubernetes-with-argocd/0636920054359/0636920054358/>
+
+# Building Microservices with Containers  
+<https://learning.oreilly.com/attend/building-microservices-with-containers/0636920408468/0636920054464/>  
+
+
+# A Practical Introduction to DevOps
+<https://learning.oreilly.com/attend/a-practical-introduction-to-devops/0636920338772/0636920055004/>
+
+
+# Software Architecture Superstream Series: Mastering Your Microservices Stack  
+<https://learning.oreilly.com/attend/software-architecture-superstream-series-mastering-your-microservices-stack/0636920053229/0636920053228/>  
 
 # BuildingAKubernetesOperator
-
+https://learning.oreilly.com/attend/building-a-kubernetes-operator/0636920054356/0636920054355/
 
 # AlgorithmicRiskManagementInTradingAndInvesting
-<
+<https://learning.oreilly.com/attend/algorithmic-risk-management-in-trading-and-investing/0636920301554/0636920053748/>
 
 # Building a Future-Proof Cloud Infrastructure  
 <https://learning.oreilly.com/attend/building-a-future-proof-cloud-infrastructure/0636920051700/0636920056017/>
-
 
 # Data Ingestion of Hierarchical and Other Data Formats: Cleaning Data for Effective Data Science
 <https://learning.oreilly.com/attend/data-ingestion-of-hierarchical-and-other-data-formats-cleaning-data-for-effective-data-science/0636920439943/0636920055707/>  
@@ -129,7 +153,7 @@ G0oncor2020!
 # Infrastructure & Ops Hour: DevSecOps with Patrick Debois  
 <https://learning.oreilly.com/attend/infrastructure-ops-hour-devsecops-with-patrick-debois/0636920055190/0636920055189/>
 
-# System Design Fundamentals
+# System Design Fundamentals:Righting Software
 <https://learning.oreilly.com/attend/system-design-fundamentals-righting-software/0636920364030/0636920054661/> 
 
 # MongoDB Fundamentals    
@@ -163,7 +187,6 @@ G0oncor2020!
 # Infrastructure & Ops Hour: Kubernetes Complexity with Katie Gamanji  
 <https://learning.oreilly.com/attend/infrastructure-ops-hour-kubernetes-complexity-with-katie-gamanji/0636920054069/0636920054068/>  
 
-
 # TCP/IP Fundamentals  
 <https://learning.oreilly.com/attend/tcpip-fundamentals/0636920345237/0636920053554/>  
 
@@ -194,7 +217,6 @@ G0oncor2020!
 # Mastering Systemd
 <https://learning.oreilly.com/live-training/courses/mastering-systemd/0636920051439/> 
 
-
 # TimeSeriesAnalysisForBusinessAnalytics
 <https://learning.oreilly.com/live-training/courses/time-series-analysis-for-business-analytics/0636920051369/>
 
@@ -222,7 +244,6 @@ G0oncor2020!
 # Meet the Expert: Barr Moses on Eliminating Data Downtime  
 <https://learning.oreilly.com/live-training/courses/meet-the-expert-barr-moses-on-eliminating-data-downtime/0636920508847/>  
 
-
 ## Getting Started with Continuous Delivery  
 <https://learning.oreilly.com/live-training/courses/getting-started-with-continuous-delivery-cd/0636920510581/>  
 
@@ -231,7 +252,6 @@ G0oncor2020!
 
 ## Kubernetes in Three Weeks - Feb 3, 10, 17 2021
 <https://learning.oreilly.com/live-training/courses/kubernetes-in-three-weeks-part-iiapplication-patterns-observability-extensibility-and-operators/0636920505778/>  
-
 
 ## Container-Based Devops in 4 Weeks: Docker, Podman, Kubernetes and OpenShift
 <https://learning.oreilly.com/live-training/courses/container-based-devops-in-4-weeks-docker-podman-kubernetes-and-openshift/0636920509431/>  
@@ -287,7 +307,6 @@ G0oncor2020!
 ## Techniques for Data Science with Big Datasets  
 <https://learning.oreilly.com/live-training/courses/techniques-for-data-science-with-big-datasets/0636920478959/>  
 
-
 ## Mastering SE Linux   
 <https://learning.oreilly.com/live-training/courses/mastering-selinux/0636920474197/>  
 
@@ -341,7 +360,6 @@ G0oncor2020!
 ## Exam AZ-104: Microsoft Azure Administrator Crash Course  
 <https://learning.oreilly.com/live-training/courses/exam-az-104-microsoft-azure-administrator-crash-course/0636920464884/>  
 
-
 ## SQL fundamentals for data  
 <https://learning.oreilly.com/live-training/courses/sql-fundamentals-for-data/0636920425243/>  
 
@@ -350,7 +368,6 @@ G0oncor2020!
 
 ## Git Fundamentals  
 <https://learning.oreilly.com/live-training/courses/git-fundamentals/0636920417422/>  
-
 
 ## VXLAN and VXLAN-EVPN Deep Dive  
 <https://learning.oreilly.com/live-training/courses/vxlan-and-vxlan-evpn-deep-dive/0636920468479/>  
