@@ -76,6 +76,11 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>  
 
 # Red Hat  
+## Red Hat Summit 2021 Virtual Experience 
+<https://isolate.menlosecurity.com/1/3735928009/https://u17654435.ct.sendgrid.net/ls/click?upn=09YhPhaUcd6Fbs0wvl0TVLqgDOZMSNLOSNsvIaE5hTE1JrcZJfvOoPAWO4MR7F6Cye6tM7kht-2F5pJL9-2BdHJWq7Txz2tGm4wRl2-2FbumLBtkVe4v3Xwqjg29ASohTKmz1hD08M_7jr05Bs9CFIjRmKLu606UghQiIKvUrL2Kxvctb2M-2Buqs5n7caYPzhD-2FJhpgFmuE-2BzvFb0UZd2-2FJwJo5MWfdd0XLWK-2BGR9CqPJjcmQsDz67Xlkl-2BsbbvSG-2BRwf7t8AuzV-2BBlgQFzW2WzfFO6AwknUv4orBCIfHV-2Fc6VbrwLXKNAJImTihKSCggHguJLYEVGSVaR7-2B7lsIg-2B4-2FINy20b1Hqajf2QyNTMB1AOS3BE5Lsn-2FscQVo0NM8efSjvaU9OtTW-2Bn2S22MPQh829jxCzWUWGnmRDjc46n9eiddAK-2F5GO5PN0yWu2ODVEccJtO1zw3icsXWc6GKqBVMtXftfWy2ARVrk3-2B0EJYqrdziVUQX7n0vPqDBy5clSd5LGrQ6W5DLHkyzYzdn2UU-2BT-2BjKG2QaZ5Lp-2Bqd4HBor0amrLK4AUlb0uAuhc9pSHCzWuB5jeBzez>
+
+
+
 ## Red Hat Ansible Automation Platform roadmap update-4/15/21  
 <https://isolate.menlosecurity.com/1/3735928009/https://onlinexperiences.com/Launch/Event.htm?ShowKey=147958>  
 
@@ -106,34 +111,82 @@ G0oncor2020!
 
 
 ++MARK++  
-# Elasticsearch: Next Steps
+# **2021 July**
+
+
+# **2021 June**  
+
+
+## Hands-On Kubernetes And Docker Security
+<https://learning.oreilly.com/attend/hands-on-kubernetes-and-docker-security/0636920054064/0636920056866/>  
+
+## Troubleshooting Kubernetes  
+<https://learning.oreilly.com/attend/troubleshooting-kubernetes/0636920055597/0636920055596/>  
+
+
+## Certified Kubernetes Application Developer Crash Course (CKAD)
+<https://learning.oreilly.com/attend/certified-kubernetes-application-developer-crash-course-ckad/0636920329183/0636920056541/>
+
+
+## Elasticsearch 
+## NoSQL Databases and Elastic Stack Primer
+<https://learning.oreilly.com/attend/nosql-databases-and-elastic-stack-primer/0636920471301/0636920056025/>
+
+
+## Essential Math for Data Science in 6 Weeks
+<https://learning.oreilly.com/attend/essential-math-for-data-science-in-6-weeks/0636920055929/0636920055928/>
+
+## Container-Based DevOps in 3 Weeks: Docker, Podman, Kubernetes and OpenShift: 6/7, 6/14, 6/21
+<https://learning.oreilly.com/attend/container-based-devops-in-3-weeks-docker-podman-kubernetes-and-openshift/0636920055233/0636920055232/>
+
+
+
+
+## Automating with Ansible  
+<https://learning.oreilly.com/attend/automating-with-ansible/0636920184119/0636920055717/>  
+
+## Essential Math for Data Science in 6 Weeks  
+<https://learning.oreilly.com/attend/essential-math-for-data-science-in-6-weeks/0636920055929/0636920055928/>
+
+# **2021 May**    
+
+## Elasticsearch: Next Steps
 <https://learning.oreilly.com/attend/elasticsearch-next-steps/0636920053461/0636920054223/>  
 
-# Infrastructure & Ops Superstream Series: Creating Your Kubernetes Platform  
+## Infrastructure & Ops Superstream Series: Creating Your Kubernetes Platform  
 <https://learning.oreilly.com/attend/infrastructure-ops-superstream-series-creating-your-kubernetes-platform/0636920053245/0636920053244/>  
 
-# Service Level Objectives and Maintenance Windows
+##Infrastructure & Ops Hour: Microservices and Ops with Chris O'Dell
+https://learning.oreilly.com/attend/infrastructure-ops-hour-microservices-and-ops-with-chris-odell/0636920054072/0636920054071/
+
+
+## Service Level Objectives and Maintenance Windows
 <https://learning.oreilly.com/attend/service-level-objectives-and-maintenance-windows/0636920051189/0636920056685/> 
 
-# Continuous Delivery in Kubernetes with ArgoCD
+## Continuous Delivery in Kubernetes with ArgoCD
 <https://learning.oreilly.com/attend/continuous-delivery-in-kubernetes-with-argocd/0636920054359/0636920054358/>
 
-# Building Microservices with Containers  
+## Building Microservices with Containers  
 <https://learning.oreilly.com/attend/building-microservices-with-containers/0636920408468/0636920054464/>  
 
 
-# A Practical Introduction to DevOps
+## A Practical Introduction to DevOps
 <https://learning.oreilly.com/attend/a-practical-introduction-to-devops/0636920338772/0636920055004/>
 
 
-# Software Architecture Superstream Series: Mastering Your Microservices Stack  
+## Software Architecture Superstream Series: Mastering Your Microservices Stack  
 <https://learning.oreilly.com/attend/software-architecture-superstream-series-mastering-your-microservices-stack/0636920053229/0636920053228/>  
 
-# BuildingAKubernetesOperator
+## BuildingAKubernetesOperator
 https://learning.oreilly.com/attend/building-a-kubernetes-operator/0636920054356/0636920054355/
 
-# AlgorithmicRiskManagementInTradingAndInvesting
+## AlgorithmicRiskManagementInTradingAndInvesting
 <https://learning.oreilly.com/attend/algorithmic-risk-management-in-trading-and-investing/0636920301554/0636920053748/>
+
+## Hands-on Introduction to Apache Hadoop, Spark, and Kafka Programming: Effective Data Pipelines
+<https://learning.oreilly.com/attend/hands-on-introduction-to-apache-hadoop-spark-and-kafka-programming-effective-data-pipelines/0636920360018/0636920055009/>
+
+
 
 # Building a Future-Proof Cloud Infrastructure  
 <https://learning.oreilly.com/attend/building-a-future-proof-cloud-infrastructure/0636920051700/0636920056017/>
