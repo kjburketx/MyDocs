@@ -667,6 +667,7 @@ Neal Ford
 
 ## Docker: Up and Running  
 Sean Kane  
+<https://learning.oreilly.com/attend/docker-up-and-running/0636920062035/0636920437802/>
 <https://learning.oreilly.com/live-training/courses/docker-up-and-running/0636920437802/>  
 
 ## Microservice Collaboration  
