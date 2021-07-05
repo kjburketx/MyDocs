@@ -2,8 +2,29 @@
 
 
 #### Change Notes  
-2020/12/23:kjb:Audit back to June 2020  
+ 
+6da30f0 2021-07-05 | Classes up to 7/2/21 (HEAD -> primary) [Kevin_Burke]
+0928318 2021-06-30 | Classes up to 6/30/21 (MyDocs/primary, MyDocs/master) [Kevin_Burke]
+b4d2019 2021-05-29 | Added O'Reilly webinar info and links up to 5/28/21 [kjburketx]
+c4c6bb4 2021-05-18 | Added classes up to 05/17/21 [kjburketx]
+0c3d09d 2021-05-10 | Added webinars up through  5/10/21 [Kevin_Burke]
+672a7b3 2021-05-06 | Added classes for the week and made corrections [kjburketx]
+90e5dcf 2021-04-27 | Added O'Reilly webinars up to 04/27/21 [kjburketx]
+65b6724 2021-04-15 | Added references up to 4/15/21 [kjburketx]
+17ceda2 2021-04-11 | Added OReilly training class references up to 2021/04/07 [kjburketx]
+41b4793 2021-02-01 | Added new classes [Kevin_Burke]
+9009ac6 2021-01-23 | Added Red Hat section; Added entry for Ansible Fest 2020 [Kevin_Burke]
+85f8835 2021-01-18 | Added two new links for the week and cleaned up extra spaces [Kevin_Burke]
+3d19515 2021-01-08 | Added three classes: Agile for distributed teams, Architecture Meets Data, Intro to Kanban [Kevin_Burke]
+88a4311 2021-01-05 | Added entry for SAFe First Steps [Kevin_Burke]
+10fe763 2021-01-03 | Added entries for Snowflake and Router class replays [Kevin_Burke]
+aa08a27 2020-12-31 | Corrected formatting errors in replay file [Kevin_Burke]
+22ee255 2020-12-31 | Added new command script to create Word and PDF files [Kevin_Burke]
+bb86b50 2020-12-31 | Modified file to ignore temp dir and generated files [Kevin_Burke]
+7d68b53 2020-12-31 | Created new README file [Kevin_Burke]
+7854709 2020-12-31 | Initial setup [Kevin_Burke]
 
+2020/12/23:kjb:Audit back to June 2020 
 ---  
 # **ACM**  
 ---
