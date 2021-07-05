@@ -76,6 +76,11 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>  
 
 # Red Hat  
+
+## Red Hat Ansible Automates  
+<https://isolate.menlosecurity.com/1/3735928009/https://events.redhat.com/profile/408425>  
+
+
 ## Red Hat Summit 2021 Virtual Experience 
 <https://isolate.menlosecurity.com/1/3735928009/https://u17654435.ct.sendgrid.net/ls/click?upn=09YhPhaUcd6Fbs0wvl0TVLqgDOZMSNLOSNsvIaE5hTE1JrcZJfvOoPAWO4MR7F6Cye6tM7kht-2F5pJL9-2BdHJWq7Txz2tGm4wRl2-2FbumLBtkVe4v3Xwqjg29ASohTKmz1hD08M_7jr05Bs9CFIjRmKLu606UghQiIKvUrL2Kxvctb2M-2Buqs5n7caYPzhD-2FJhpgFmuE-2BzvFb0UZd2-2FJwJo5MWfdd0XLWK-2BGR9CqPJjcmQsDz67Xlkl-2BsbbvSG-2BRwf7t8AuzV-2BBlgQFzW2WzfFO6AwknUv4orBCIfHV-2Fc6VbrwLXKNAJImTihKSCggHguJLYEVGSVaR7-2B7lsIg-2B4-2FINy20b1Hqajf2QyNTMB1AOS3BE5Lsn-2FscQVo0NM8efSjvaU9OtTW-2Bn2S22MPQh829jxCzWUWGnmRDjc46n9eiddAK-2F5GO5PN0yWu2ODVEccJtO1zw3icsXWc6GKqBVMtXftfWy2ARVrk3-2B0EJYqrdziVUQX7n0vPqDBy5clSd5LGrQ6W5DLHkyzYzdn2UU-2BT-2BjKG2QaZ5Lp-2Bqd4HBor0amrLK4AUlb0uAuhc9pSHCzWuB5jeBzez>
 
@@ -105,7 +110,7 @@ G0oncor2020!
 ###note: Folders for each class can be found at N:\eBooks\OReilly
 
 
-
+ 
 ---  
 
 
@@ -113,15 +118,28 @@ G0oncor2020!
 ++MARK++  
 # **2021 July**
 
+## Next Level Git - Master your content
+<https://learning.oreilly.com/attend/next-level-git-master-your-content/0636920190271/0636920058669/>  
+
+
+## Introduction to Docker Compose
+<https://learning.oreilly.com/attend/introduction-to-docker-compose/0636920258124/0636920055946/> 
+
 
 # **2021 June**  
-
 
 ## Hands-On Kubernetes And Docker Security
 <https://learning.oreilly.com/attend/hands-on-kubernetes-and-docker-security/0636920054064/0636920056866/>  
 
 ## Troubleshooting Kubernetes  
 <https://learning.oreilly.com/attend/troubleshooting-kubernetes/0636920055597/0636920055596/>  
+
+## Red Hat Certified Specialist in OpenShift Administration (EX280) Crash Course****
+<https://learning.oreilly.com/attend/red-hat-certified-specialist-in-openshift-administration-ex280-crash-course/0636920053762/0636920055554/>  
+
+
+## Red Hat Certified Specialist in Containers and Kubernetes (EX180) Crash Course
+<https://learning.oreilly.com/attend/red-hat-certified-specialist-in-containers-and-kubernetes-ex180-crash-course/0636920053764/0636920055483/> 
 
 
 ## Certified Kubernetes Application Developer Crash Course (CKAD)
