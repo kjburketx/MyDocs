@@ -97,6 +97,11 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>  
 
 # Red Hat  
+Kubernetes 101—an introduction to containers, Kubernetes, and OpenShift.  
+WEBCAST LINK:  
+<https://event.on24.com/wcc/r/3300767/2B41B38FC0A0D7F49E49BDD45343554C?mode=login&email=kevin.burke@oncor.com>  
+EMAIL:  kevin.burke@oncor.com 
+2021/08/10  
 
 ## Red Hat Ansible Automates  
 <https://isolate.menlosecurity.com/1/3735928009/https://events.redhat.com/profile/408425>  
@@ -137,7 +142,38 @@ G0oncor2020!
 
 
 ++MARK++  
+# **2021 August**
+
+## Software Architecture Hour: Architecture Governance with Birgitta Boeckeler  
+<https://learning.oreilly.com/attend/software-architecture-hour-architecture-governance-with-birgitta-boeckeler/0636920053273/0636920053272/> 
+
+## Enterprise Data Visualization: Executive Dashboards and Managerial Displays 
+<https://learning.oreilly.com/attend/enterprise-data-visualization-executive-dashboards-and-managerial-displays/0636920353324/0636920059939/>  
+
+## Core Agile
+<https://learning.oreilly.com/attend/core-agile/0636920278689/0636920057331/>  
+
+## React in 4 Hours
+<https://learning.oreilly.com/attend/react-in-4-hours/0636920436553/0636920059005/>  
+
+
 # **2021 July**
+
+## Cloud Native CI/CD with Tekton
+### Creating pipelines with custom Kubernetes resources#### July 26, 2021
+<https://learning.oreilly.com/attend/cloud-native-cicd-with-tekton/0636920057752/0636920057751/>
+## Terraform: Getting started
+### Automating infrastructure
+#### July 19, 2021
+<https://learning.oreilly.com/attend/terraform-getting-started/0636920343974/0636920055941/>
+
+## Ansible in 3 Weeks: Cloud and Datacenter Automation
+### July 9, 16, 23, 2021
+<https://learning.oreilly.com/attend/ansible-in-3-weeks-cloud-and-datacenter-automation/0636920056459/0636920056458/>
+
+## Containers A-Z  
+<https://learning.oreilly.com/attend/containers-a-z/0636920335627/0636920058678/> 
+
 
 ## Next Level Git - Master your content
 <https://learning.oreilly.com/attend/next-level-git-master-your-content/0636920190271/0636920058669/>  
@@ -767,6 +803,8 @@ Sean Kane
 ## Getting Started with Google Cloud Platform (GCP)
 <https://learning.oreilly.com/live-training/courses/getting-started-with-google-cloud-platform-gcp/0636920435594/>  
 
+
++++LAST+++
 ---
 # Below are classes no longer available for re-play -> ACM Account Issue  
 --- 
