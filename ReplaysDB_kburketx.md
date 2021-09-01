@@ -28,10 +28,21 @@ bb86b50 2020-12-31 | Modified file to ignore temp dir and generated files [Kevin
 ---  
 # **ACM**  
 ---
+#Books  
+## Linux in Action  
+<https://acm.skillport.com/skillportfe/main.action?path=summary/BOOKS/147224#summary/BOOKS/RW$287698:_ss_book:147224>
+## Learn Windows Subsystem for Linux: A Practical Guide for Developers and IT Professionals
+<https://acm.skillport.com/skillportfe/main.action?path=summary/BOOKS/153422#summary/BOOKS/RW$318110:_ss_book:153422>
 
-# Thank you for attending Comprehension and Evolution of Combinatorial Models and Test Plans. This webcast is now on-demand, should you like to view it again.  
-Use the link below to enter the webcast at any time.  
-WEBCAST LINK:  <https://event.on24.com/wcc/r/2702657/0F5530316485FF3B40B7544C8AFD92FA?mode=login&email=kburketx@verizon.net>  
+## Running Linux Apps on Windows: How and Why?. This webcast is now on-demand, should you like to view it again.
+WEBCAST LINK:  
+<https://event.on24.com/wcc/r/3245995/08D98401E15EDE3D38BBD12AFD620BD7?mode=login&email=kevin.burke@oncor.com>  
+EMAIL:  kevin.burke@oncor.com 
+
+
+# Comprehension and Evolution of Combinatorial Models and Test Plans.    
+WEBCAST LINK:  
+<https://event.on24.com/wcc/r/2702657/0F5530316485FF3B40B7544C8AFD92FA?mode=login&email=kburketx@verizon.net>  
 
 # A friendly reminder that It's Time Deep Learning Learned from Software Engineering begins in two days.
 LIVE WEBCAST DATE:  November 02, 2020
@@ -142,7 +153,16 @@ G0oncor2020!
 
 
 ++MARK++  
-# **2021 August**
+# **2021 August** 
+ 
+## Infrastructure & Ops Hour: Multicloud with Gregor Hohpe
+<https://learning.oreilly.com/live-events/infrastructure-ops-hour-multicloud-with-gregor-hohpe/0636920054082/0636920054081/>  
+
+## Building and Managing Kubernetes Applications  
+<https://learning.oreilly.com/live-events/building-and-managing-kubernetes-applications/0636920140450/0636920060308/>  
+
+## Implementing Evolutionary Architectures
+<https://learning.oreilly.com/attend/implementing-evolutionary-architectures/0636920183358/0636920054927/>  
 
 ## Software Architecture Hour: Architecture Governance with Birgitta Boeckeler  
 <https://learning.oreilly.com/attend/software-architecture-hour-architecture-governance-with-birgitta-boeckeler/0636920053273/0636920053272/> 
