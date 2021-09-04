@@ -107,6 +107,16 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 <http://go.pardot.com/e/514201/ng-Y-partnerref-PardotOndemand/3sdl5bd/779874587?:w
 h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>  
 
+
+---
+
+# Atlassian  
+## Collaboratory: A Confluence Series
+
+<https://events.atlassian.com/collaboratory_series/home>
+
+
+## 
 # Red Hat  
 Kubernetes 101—an introduction to containers, Kubernetes, and OpenShift.  
 WEBCAST LINK:  
@@ -142,17 +152,21 @@ Red Hat 2020 Virtual Summit
 kevin.burke@oncor.com
 G0oncor2020!
 
-
+----
 # O'Reilly  
 ###note: Folders for each class can be found at N:\eBooks\OReilly
 
 
- 
----  
-
-
 
 ++MARK++  
+# **2021 September**
+##Getting Started with OpenStack
+<https://learning.oreilly.com/live-events/getting-started-with-openstack/0636920137344/0636920058947/>
+
+
+##VCP-DCV for vSphere 7.0 (2V0-21.20) Crash Course
+<https://learning.oreilly.com/live-events/vcp-dcv-for-vsphere-70-2v0-2120-crash-course/0636920051698/0636920061458/>
+
 # **2021 August** 
  
 ## Infrastructure & Ops Hour: Multicloud with Gregor Hohpe
