@@ -2,8 +2,29 @@
 
 
 #### Change Notes  
-2020/12/23:kjb:Audit back to June 2020  
+ 
+6da30f0 2021-07-05 | Classes up to 7/2/21 (HEAD -> primary) [Kevin_Burke]
+0928318 2021-06-30 | Classes up to 6/30/21 (MyDocs/primary, MyDocs/master) [Kevin_Burke]
+b4d2019 2021-05-29 | Added O'Reilly webinar info and links up to 5/28/21 [kjburketx]
+c4c6bb4 2021-05-18 | Added classes up to 05/17/21 [kjburketx]
+0c3d09d 2021-05-10 | Added webinars up through  5/10/21 [Kevin_Burke]
+672a7b3 2021-05-06 | Added classes for the week and made corrections [kjburketx]
+90e5dcf 2021-04-27 | Added O'Reilly webinars up to 04/27/21 [kjburketx]
+65b6724 2021-04-15 | Added references up to 4/15/21 [kjburketx]
+17ceda2 2021-04-11 | Added OReilly training class references up to 2021/04/07 [kjburketx]
+41b4793 2021-02-01 | Added new classes [Kevin_Burke]
+9009ac6 2021-01-23 | Added Red Hat section; Added entry for Ansible Fest 2020 [Kevin_Burke]
+85f8835 2021-01-18 | Added two new links for the week and cleaned up extra spaces [Kevin_Burke]
+3d19515 2021-01-08 | Added three classes: Agile for distributed teams, Architecture Meets Data, Intro to Kanban [Kevin_Burke]
+88a4311 2021-01-05 | Added entry for SAFe First Steps [Kevin_Burke]
+10fe763 2021-01-03 | Added entries for Snowflake and Router class replays [Kevin_Burke]
+aa08a27 2020-12-31 | Corrected formatting errors in replay file [Kevin_Burke]
+22ee255 2020-12-31 | Added new command script to create Word and PDF files [Kevin_Burke]
+bb86b50 2020-12-31 | Modified file to ignore temp dir and generated files [Kevin_Burke]
+7d68b53 2020-12-31 | Created new README file [Kevin_Burke]
+7854709 2020-12-31 | Initial setup [Kevin_Burke]
 
+2020/12/23:kjb:Audit back to June 2020 
 ---  
 # **ACM**  
 ---
@@ -76,6 +97,16 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>  
 
 # Red Hat  
+
+## Red Hat Ansible Automates  
+<https://isolate.menlosecurity.com/1/3735928009/https://events.redhat.com/profile/408425>  
+
+
+## Red Hat Summit 2021 Virtual Experience 
+<https://isolate.menlosecurity.com/1/3735928009/https://u17654435.ct.sendgrid.net/ls/click?upn=09YhPhaUcd6Fbs0wvl0TVLqgDOZMSNLOSNsvIaE5hTE1JrcZJfvOoPAWO4MR7F6Cye6tM7kht-2F5pJL9-2BdHJWq7Txz2tGm4wRl2-2FbumLBtkVe4v3Xwqjg29ASohTKmz1hD08M_7jr05Bs9CFIjRmKLu606UghQiIKvUrL2Kxvctb2M-2Buqs5n7caYPzhD-2FJhpgFmuE-2BzvFb0UZd2-2FJwJo5MWfdd0XLWK-2BGR9CqPJjcmQsDz67Xlkl-2BsbbvSG-2BRwf7t8AuzV-2BBlgQFzW2WzfFO6AwknUv4orBCIfHV-2Fc6VbrwLXKNAJImTihKSCggHguJLYEVGSVaR7-2B7lsIg-2B4-2FINy20b1Hqajf2QyNTMB1AOS3BE5Lsn-2FscQVo0NM8efSjvaU9OtTW-2Bn2S22MPQh829jxCzWUWGnmRDjc46n9eiddAK-2F5GO5PN0yWu2ODVEccJtO1zw3icsXWc6GKqBVMtXftfWy2ARVrk3-2B0EJYqrdziVUQX7n0vPqDBy5clSd5LGrQ6W5DLHkyzYzdn2UU-2BT-2BjKG2QaZ5Lp-2Bqd4HBor0amrLK4AUlb0uAuhc9pSHCzWuB5jeBzez>
+
+
+
 ## Red Hat Ansible Automation Platform roadmap update-4/15/21  
 <https://isolate.menlosecurity.com/1/3735928009/https://onlinexperiences.com/Launch/Event.htm?ShowKey=147958>  
 
@@ -100,40 +131,101 @@ G0oncor2020!
 ###note: Folders for each class can be found at N:\eBooks\OReilly
 
 
-
+ 
 ---  
 
 
 
 ++MARK++  
-# Elasticsearch: Next Steps
+# **2021 July**
+
+## Next Level Git - Master your content
+<https://learning.oreilly.com/attend/next-level-git-master-your-content/0636920190271/0636920058669/>  
+
+
+## Introduction to Docker Compose
+<https://learning.oreilly.com/attend/introduction-to-docker-compose/0636920258124/0636920055946/> 
+
+
+# **2021 June**  
+
+## Hands-On Kubernetes And Docker Security
+<https://learning.oreilly.com/attend/hands-on-kubernetes-and-docker-security/0636920054064/0636920056866/>  
+
+## Troubleshooting Kubernetes  
+<https://learning.oreilly.com/attend/troubleshooting-kubernetes/0636920055597/0636920055596/>  
+
+## Red Hat Certified Specialist in OpenShift Administration (EX280) Crash Course****
+<https://learning.oreilly.com/attend/red-hat-certified-specialist-in-openshift-administration-ex280-crash-course/0636920053762/0636920055554/>  
+
+
+## Red Hat Certified Specialist in Containers and Kubernetes (EX180) Crash Course
+<https://learning.oreilly.com/attend/red-hat-certified-specialist-in-containers-and-kubernetes-ex180-crash-course/0636920053764/0636920055483/> 
+
+
+## Certified Kubernetes Application Developer Crash Course (CKAD)
+<https://learning.oreilly.com/attend/certified-kubernetes-application-developer-crash-course-ckad/0636920329183/0636920056541/>
+
+
+## Elasticsearch 
+## NoSQL Databases and Elastic Stack Primer
+<https://learning.oreilly.com/attend/nosql-databases-and-elastic-stack-primer/0636920471301/0636920056025/>
+
+
+## Essential Math for Data Science in 6 Weeks
+<https://learning.oreilly.com/attend/essential-math-for-data-science-in-6-weeks/0636920055929/0636920055928/>
+
+## Container-Based DevOps in 3 Weeks: Docker, Podman, Kubernetes and OpenShift: 6/7, 6/14, 6/21
+<https://learning.oreilly.com/attend/container-based-devops-in-3-weeks-docker-podman-kubernetes-and-openshift/0636920055233/0636920055232/>
+
+
+
+
+## Automating with Ansible  
+<https://learning.oreilly.com/attend/automating-with-ansible/0636920184119/0636920055717/>  
+
+## Essential Math for Data Science in 6 Weeks  
+<https://learning.oreilly.com/attend/essential-math-for-data-science-in-6-weeks/0636920055929/0636920055928/>
+
+# **2021 May**    
+
+## Elasticsearch: Next Steps
 <https://learning.oreilly.com/attend/elasticsearch-next-steps/0636920053461/0636920054223/>  
 
-# Infrastructure & Ops Superstream Series: Creating Your Kubernetes Platform  
+## Infrastructure & Ops Superstream Series: Creating Your Kubernetes Platform  
 <https://learning.oreilly.com/attend/infrastructure-ops-superstream-series-creating-your-kubernetes-platform/0636920053245/0636920053244/>  
 
-# Service Level Objectives and Maintenance Windows
+##Infrastructure & Ops Hour: Microservices and Ops with Chris O'Dell
+https://learning.oreilly.com/attend/infrastructure-ops-hour-microservices-and-ops-with-chris-odell/0636920054072/0636920054071/
+
+
+## Service Level Objectives and Maintenance Windows
 <https://learning.oreilly.com/attend/service-level-objectives-and-maintenance-windows/0636920051189/0636920056685/> 
 
-# Continuous Delivery in Kubernetes with ArgoCD
+## Continuous Delivery in Kubernetes with ArgoCD
 <https://learning.oreilly.com/attend/continuous-delivery-in-kubernetes-with-argocd/0636920054359/0636920054358/>
 
-# Building Microservices with Containers  
+## Building Microservices with Containers  
 <https://learning.oreilly.com/attend/building-microservices-with-containers/0636920408468/0636920054464/>  
 
 
-# A Practical Introduction to DevOps
+## A Practical Introduction to DevOps
 <https://learning.oreilly.com/attend/a-practical-introduction-to-devops/0636920338772/0636920055004/>
 
 
-# Software Architecture Superstream Series: Mastering Your Microservices Stack  
+## Software Architecture Superstream Series: Mastering Your Microservices Stack  
 <https://learning.oreilly.com/attend/software-architecture-superstream-series-mastering-your-microservices-stack/0636920053229/0636920053228/>  
 
-# BuildingAKubernetesOperator
+## BuildingAKubernetesOperator
 https://learning.oreilly.com/attend/building-a-kubernetes-operator/0636920054356/0636920054355/
 
-# AlgorithmicRiskManagementInTradingAndInvesting
+## AlgorithmicRiskManagementInTradingAndInvesting
 <https://learning.oreilly.com/attend/algorithmic-risk-management-in-trading-and-investing/0636920301554/0636920053748/>
+
+## Hands-on Introduction to Apache Hadoop, Spark, and Kafka Programming: Effective Data Pipelines
+<https://learning.oreilly.com/attend/hands-on-introduction-to-apache-hadoop-spark-and-kafka-programming-effective-data-pipelines/0636920360018/0636920055009/>
+
+
 
 # Building a Future-Proof Cloud Infrastructure  
 <https://learning.oreilly.com/attend/building-a-future-proof-cloud-infrastructure/0636920051700/0636920056017/>
@@ -575,6 +667,7 @@ Neal Ford
 
 ## Docker: Up and Running  
 Sean Kane  
+<https://learning.oreilly.com/attend/docker-up-and-running/0636920062035/0636920437802/>
 <https://learning.oreilly.com/live-training/courses/docker-up-and-running/0636920437802/>  
 
 ## Microservice Collaboration  
