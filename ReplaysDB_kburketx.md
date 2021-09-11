@@ -160,6 +160,9 @@ G0oncor2020!
 
 ++MARK++  
 # **2021 September**
+##Red Hat Certified System Administrator (RHCSA) Crash Course
+<https://learning.oreilly.com/live-events/red-hat-certified-system-administrator-rhcsa-crash-course/0636920121657/0636920058897/>
+
 ##Getting Started with OpenStack
 <https://learning.oreilly.com/live-events/getting-started-with-openstack/0636920137344/0636920058947/>
 
