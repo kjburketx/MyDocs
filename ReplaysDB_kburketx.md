@@ -112,13 +112,19 @@ h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>
 
 # Atlassian  
 ## Collaboratory: A Confluence Series
+<https://events.atlassian.com/collaboratory_series/home>  
+- 6 Episodes: 8/4/21 - 9/8/21
 
-<https://events.atlassian.com/collaboratory_series/home>
 
 
 ## 
 # Red Hat  
-Kubernetes 101—an introduction to containers, Kubernetes, and OpenShift.  
+## Preparing your teams—technically and practically—for automation. 
+WEBCAST LINK:  <https://event.on24.com/wcc/r/3374031/C75F4A21B326E0A0DE46E0F79EB6AD15?mode=login&email=kevin.burke@oncor.com>
+EMAIL:  kevin.burke@oncor.com 
+09/10/2021
+
+##Kubernetes 101—an introduction to containers, Kubernetes, and OpenShift.  
 WEBCAST LINK:  
 <https://event.on24.com/wcc/r/3300767/2B41B38FC0A0D7F49E49BDD45343554C?mode=login&email=kevin.burke@oncor.com>  
 EMAIL:  kevin.burke@oncor.com 
@@ -154,12 +160,30 @@ G0oncor2020!
 
 ----
 # O'Reilly  
-###note: Folders for each class can be found at N:\eBooks\OReilly
-
-
-
 ++MARK++  
+###note: Folders for each class can be found at N:\eBooks\OReilly
+  
 # **2021 September**
+
+## Introduction To Algorithms And Data Structures  
+<https://learning.oreilly.com/live-events/introduction-to-algorithms-and-data-structures/0636920306542/0636920060950/>  
+
+## Calculus IV: Gradients and Integrals (Machine Learning Foundations)  
+<https://learning.oreilly.com/live-events/calculus-iv-gradients-and-integrals-machine-learning-foundations/0636920059511/0636920059510/>  
+09/22/2021 
+
+## Mastering systemd  
+<https://learning.oreilly.com/live-events/mastering-systemd/0636920436324/0636920058961/> 
+09/21/2021 
+
+## Bash Shell Scripting in 4 Hours
+<https://learning.oreilly.com/live-events/bash-shell-scripting-in-4-hours/0636920245810/0636920058957/>  
+09/20/21  
+
+##Getting Started with OpenShift
+<https://learning.oreilly.com/live-events/getting-started-with-openshift/0636920244301/0636920058864/>
+09/13/2021
+
 ##Red Hat Certified System Administrator (RHCSA) Crash Course
 <https://learning.oreilly.com/live-events/red-hat-certified-system-administrator-rhcsa-crash-course/0636920121657/0636920058897/>
 
