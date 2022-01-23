@@ -128,7 +128,7 @@ G0oncor2020!
 
 
 # O'Reilly  
-###note: Folders for each class can be found at N:\eBooks\OReilly
+###note: Folders for each class can be found at M:\eBooks\OReilly
 
 
  
@@ -137,15 +137,325 @@ G0oncor2020!
 
 
 ++MARK++  
+
+# ** 2022 **
+## Ansible in 4 Hours
+2022/01/21  
+<https://learning.oreilly.com/live-events/ansible-in-4-hours/0636920123842/0636920064471/>    
+
+## Getting Started with Continuous Delivery  
+2022/01/19  
+<https://learning.oreilly.com/live-events/getting-started-with-continuous-delivery/0636920059767/0636920067805/>  
+
+
+## AWS Certified Solutions Architect: Professional (SAP-C01) Bootcamp
+2022/01/19-2022/01/20  
+<https://learning.oreilly.com/live-events/aws-certified-solutions-architect-professional-sap-c01-bootcamp/0636920058619/0636920066419/> 
+
+
+## AWS Event-Driven Automation and Operations
+### 2022/01/18
+<https://learning.oreilly.com/live-events/aws-event-driven-automation-and-operations/0636920065014/0636920065013/> 
+
+## Infrastructure & Ops Superstream: Observability
+2022/01/12  
+<https://learning.oreilly.com/live-events/infrastructure-ops-superstream-observability/0636920066201/0636920066200/>  
+
+## SQL Fundamentals for Data
+2022/01/12 - 2022/01/13  
+<https://learning.oreilly.com/live-events/sql-fundamentals-for-data/0636920054762/0636920062861/>  
+
+## Kustomize Fundamentals  
+2022/01/11  
+<https://learning.oreilly.com/live-events/kustomize-fundamentals/0636920061420/0636920064448/>  
+
+
+## Threading in Python
+2022/01/11
+<https://learning.oreilly.com/live-events/threading-in-python/0636920370437/0636920064403/>  
+
+## Radar Talks: Phil Balagtas on Futures Design and Thinking  
+2022/01/10  
+<https://learning.oreilly.com/live-events/radar-talks-phil-balagtas-on-futures-design-and-thinking/0636920064928/0636920064927/>  
+
+
+# **2021**  
+
+
+## Building Microservices with Containers, Kubernetes and Istio
+Published by Pearson  
+2021/12/16
+<https://learning.oreilly.com/live-events/building-microservices-with-containers-kubernetes-and-istio/0636920408468/0636920063474/>  
+
+## Getting Started with Amazon Web Services (AWS)  
+2021/12/13 - 2021/12/14  
+<https://learning.oreilly.com/live-events/getting-started-with-amazon-web-services-aws/0636920126294/0636920064533/>  
+
+
+## Getting Started with Amazon Aurora  
+2021/12/10  
+<https://learning.oreilly.com/live-events/getting-started-with-amazon-aurora/0636920059900/0636920061360/>  
+
+## Web Performance Fundamentals  
+2021/12/07  
+<https://learning.oreilly.com/live-events/web-performance-fundamentals/0636920055867/0636920064125/>  
+
+## Getting Started with Cloud SQL  
+2021/12/03  
+<https://learning.oreilly.com/live-events/getting-started-with-cloud-sql/0636920060223/0636920061364/>  
+
+## Rethinking REST: A hands-on guide to GraphQL and queryable APIs  
+2021/12/02  
+<https://learning.oreilly.com/live-events/rethinking-rest-a-hands-on-guide-to-graphql-and-queryable-apis/0636920174325/0636920064256/> 
+
+## Kubernetes Office Hours with Jonathan Johnson  
+2021/12/01  
+<https://learning.oreilly.com/live-events/kubernetes-office-hours-with-jonathan-johnson/0636920054026/0636920054050/>  
+
+
+## Backend (Web) Development in 4 Weeks  
+2021/12/01, 2021/12/08, 2021/12/15, 2021/12/22  
+<https://learning.oreilly.com/live-events/backend-web-development-in-4-weeks/0636920063655/0636920063654/>  
+
+## AWS SysOps Associate (SOA-C02) Crash Course  
+2021/11/29 - 2021/11/30
+<https://learning.oreilly.com/live-events/aws-sysops-associate-soa-c02-crash-course/0636920057526/0636920063609/>  
+
+## Linux Troubleshooting: Advanced Linux Techniques  
+2021/11/23  
+<https://learning.oreilly.com/live-events/linux-troubleshooting-advanced-linux-techniques/0636920163169/0636920061789/>  
+
+## HTML5 First Steps  
+2021/11/18  
+<https://learning.oreilly.com/live-events/html5-first-steps/0636920415053/0636920064044/>  
+
+## AWS Certified Advanced Networking - Specialty Crash Course  
+2021/11/15 - 2021/11/16  
+<https://learning.oreilly.com/live-events/aws-certified-advanced-networking-specialty-crash-course/0636920382539/0636920062881/>  
+
+## GitHub Actions Fundamentals  
+2021/11/11  
+<https://learning.oreilly.com/live-events/github-actions-fundamentals/0636920058761/0636920060383/>  
+
+## Graph Data Structures and Algorithms from Scratch  
+2021/11/10  
+<https://learning.oreilly.com/live-events/graph-data-structures-and-algorithms-from-scratch/0636920480525/0636920059134/>  
+
+## Hands-on AWS in 3 Weeks  
+2021/11/10, 2021/11/17, 2021/11/24 
+<https://learning.oreilly.com/live-events/hands-on-aws-in-3-weeks/0636920057763/0636920063085/>  
+
+## Graph Data Structures and Algorithms from Scratch  
+2021/11/10  
+<https://learning.oreilly.com/live-events/graph-data-structures-and-algorithms-from-scratch/0636920480525/0636920059134/>  
+
+## AWS core architecture concepts  
+2021/11/08, 2021/11/09  
+<https://learning.oreilly.com/live-events/aws-core-architecture-concepts/0636920096276/0636920062666/>  
+
+## Production-Ready Cloud Infrastructure with AWS and Terraform  
+2021/11/05  
+<https://learning.oreilly.com/live-events/production-ready-cloud-infrastructure-with-aws-and-terraform/0636920062816/0636920062815/>  
+
+## AWS Certified Solutions Architect - Professional Crash Course  
+2021/11/04, 2021/11/05
+<https://learning.oreilly.com/live-events/aws-certified-solutions-architect-professional-crash-course/0636920060215/0636920063595/>  
+
+## AWS Certified Solutions Architect Associate (SAA-C02) Crash Course  
+2021/11/02, 2021/11/03  
+<https://learning.oreilly.com/live-events/aws-certified-solutions-architect-associate-saa-c02-crash-course/0636920309086/0636920062874/>  
+
+## Web Scraping in 60 Minutes  
+2021/11/01  
+<https://learning.oreilly.com/live-events/web-scraping-in-60-minutes/0636920063149/0636920063147/>  
+
+## AWS Design Fundamentals  
+2021/10/27, 2021/10/28  
+<https://learning.oreilly.com/live-events/aws-design-fundamentals/0636920096313/0636920062701/>  
+
+## Containers in 4 Hours: Docker and Podman  
+2021/10/21  
+<https://learning.oreilly.com/live-events/containers-in-4-hours-docker-and-podman/0636920239529/0636920061722/>  
+
+## Certified Kubernetes Administrator (CKA) Crash Course  
+2021/10/19, 2021/10/20  
+<https://learning.oreilly.com/live-events/certified-kubernetes-administrator-cka-crash-course/0636920315766/0636920062502/>  
+
+## Probability II and Information Theory (Machine Learning Foundations)  
+2021/10/13  
+<https://learning.oreilly.com/live-events/probability-ii-and-information-theory-machine-learning-foundations/0636920062824/0636920062823/>  
+
+
+## Certified Kubernetes Application Developer (CKAD) Crash Course  
+2021/10/13-2021/10/15  
+<https://learning.oreilly.com/live-events/certified-kubernetes-application-developer-ckad-crash-course/0636920315803/0636920062340/>  
+
+
+## Ansible in 3 Weeks: Cloud and Datacenter Automation  
+2021/10/11,2021/10/18, 2021/10/25 
+<https://learning.oreilly.com/live-events/ansible-in-3-weeks-cloud-and-datacenter-automation/0636920056459/0636920062330/>  
+
+## Introduction to Knowledge Graphs  
+2021/10/07  
+<https://learning.oreilly.com/live-events/introduction-to-knowledge-graphs/0636920060992/0636920060991/>  
+
+## Identity Management with Linux and FreeIPA  
+2021/10/04  
+<https://learning.oreilly.com/live-events/identity-management-with-linux-and-freeipa/0636920061436/0636920061435/>  
+
+## Terraform: Getting Started  
+2021/09/30  
+<https://learning.oreilly.com/live-events/terraform-getting-started/0636920060088/0636920060087/>
+
+
+## AWS Certified Cloud Practitioner Exam Crash Course  
+2021/09/30, 2021/10/01  
+<https://learning.oreilly.com/live-events/aws-certified-cloud-practitioner-exam-crash-course/0636920252948/0636920060208/>  
+
+## 90 minutes to Better User Stories and Backlog Management  
+2021/09/29  
+<https://learning.oreilly.com/live-events/90-minutes-to-better-user-stories-and-backlog-management/0636920282877/0636920058594/>  
+
+## Spark 3.1 First Steps  
+2021/09/27  
+<https://learning.oreilly.com/live-events/spark-31-first-steps/0636920061951/0636920061950/>  
+
+## Hands-On Kubernetes and Docker Security  
+2021/09/27  
+<https://learning.oreilly.com/live-events/hands-on-kubernetes-and-docker-security/0636920054064/0636920059530/>  
+
+## Introduction to algorithms and data structures  
+2021/09/24  
+<https://learning.oreilly.com/live-events/introduction-to-algorithms-and-data-structures/0636920306542/0636920060950/>  
+
+
+## Calculus IV: Gradients and Integrals (Machine Learning Foundations)  
+2021/09/22  
+<https://learning.oreilly.com/live-events/calculus-iv-gradients-and-integrals-machine-learning-foundations/0636920059511/0636920059510/>  
+
+## Mastering systemd  
+2021/09/21  
+<https://learning.oreilly.com/live-events/mastering-systemd/0636920436324/0636920058961/>  
+
+## Bash Shell Scripting in 4 Hour  
+2021/09/20  
+<https://learning.oreilly.com/live-events/bash-shell-scripting-in-4-hours/0636920245810/0636920058957/>  
+
+## Red Hat Certified Specialist in OpenShift Administration (EX280) Crash Course  
+2021/09/16-2021/09/17  
+<https://learning.oreilly.com/live-events/red-hat-certified-specialist-in-openshift-administration-ex280-crash-course/0636920053762/0636920058927/>  
+
+## Software Architecture Superstream Series: Software Architecture Fundamentals—Comparing Architectural Styles  
+2021/09/15  
+<https://learning.oreilly.com/live-events/software-architecture-superstream-series-software-architecture-fundamentalscomparing-architectural-styles/0636920053236/0636920053235/>  
+
+## Getting Started with OpenShift  
+2021/09/13  
+<https://learning.oreilly.com/live-events/getting-started-with-openshift/0636920244301/0636920058864/>  
+
+## Red Hat Certified System Administrator (RHCSA) Crash Course  
+2021/09/07-2021/09/10  
+<https://learning.oreilly.com/live-events/red-hat-certified-system-administrator-rhcsa-crash-course/0636920121657/0636920058897/>  
+
+## Getting Started with OpenStack  
+2021/09/03  
+<https://learning.oreilly.com/live-events/getting-started-with-openstack/0636920137344/0636920058947/>  
+
+## VCP-DCV for vSphere 7.0 (2V0-21.20) Crash Course
+Published by Pearson  
+2021/09/02-2021/09/03  
+<https://learning.oreilly.com/live-events/vcp-dcv-for-vsphere-70-2v0-2120-crash-course/0636920051698/0636920061458/>  
+
+## Infrastructure & Ops Hour: Multicloud with Gregor Hohpe  
+2021/09/01  
+<https://learning.oreilly.com/live-events/infrastructure-ops-hour-multicloud-with-gregor-hohpe/0636920054082/0636920054081/>  
+
+## Building Microservices with Containers  
+2021/08/31  
+<https://learning.oreilly.com/live-events/building-microservices-with-containers/0636920408468/0636920058937/>  
+
+## Building and Managing Kubernetes Applications  
+2021/08/30  
+<https://learning.oreilly.com/live-events/building-and-managing-kubernetes-applications/0636920140450/0636920060308/>  
+
+## Implementing Evolutionary Architectures  
+2021/08/16-2021/08/17  
+<https://learning.oreilly.com/live-events/implementing-evolutionary-architectures/0636920183358/0636920054927/>  
+
+## Data Mesh in Practice  
+2021/08/13  
+<https://learning.oreilly.com/live-events/data-mesh-in-practice/0636920508816/0636920060717/>  
+
+## Strata Data Superstream Series: Data Warehouses, Data Lakes, and Data Lakehouses  
+2021/08/10  
+<https://learning.oreilly.com/live-events/strata-data-superstream-series-data-warehouses-data-lakes-and-data-lakehouses/0636920053196/0636920053195/>  
+
+## Linux filesystem administration  
+2021/08/10-2021/08/11  
+<https://learning.oreilly.com/live-events/linux-filesystem-administration/0636920109471/0636920060312/>  
+
+
+## Graph Data Structures and Algorithms from Scratch  
+2021/08/09  
+<https://learning.oreilly.com/live-events/graph-data-structures-and-algorithms-from-scratch/0636920480525/0636920059020/>  
+
+## Software Architecture Hour: Architecture Governance with Birgitta Boeckeler  
+2021/08/05  
+<https://learning.oreilly.com/live-events/software-architecture-hour-architecture-governance-with-birgitta-boeckeler/0636920053273/0636920053272/>  
+
+## Enterprise Data Visualization: Executive Dashboards and Managerial Displays  
+2021/08/05  
+<https://learning.oreilly.com/live-events/enterprise-data-visualization-executive-dashboards-and-managerial-displays/0636920353324/0636920059939/>  
+
+## Core Agile  
+2021/08/04  
+<https://learning.oreilly.com/live-events/core-agile/0636920278689/0636920057331/>  
+
+## React in 4 Hours  
+2021/08/02  
+<https://learning.oreilly.com/live-events/react-in-4-hours/0636920436553/0636920059005/>  
+
+## Cloud Native CI/CD with Tekton  
+2021/07/26  
+<https://learning.oreilly.com/live-events/cloud-native-cicd-with-tekton/0636920057752/0636920057751/>  
+
+## Terraform: Getting started  
+2021/07/19  
+<https://learning.oreilly.com/live-events/terraform-getting-started/0636920343974/0636920055941/>  
+
+## Software Architecture Superstream Series: Soft Skills Are the Hardest Part  
+2021/07/14  
+<https://learning.oreilly.com/live-events/software-architecture-superstream-series-soft-skills-are-the-hardest-part/0636920053233/0636920053232/>  
+
+## Containers A-Z  
+2021/07/13-2021/07/14  
+<https://learning.oreilly.com/live-events/containers-a-z/0636920335627/0636920058678/>  
+
+## Better business writing  
+2021/07/12  
+<https://learning.oreilly.com/live-events/better-business-writing/0636920260493/0636920057605/>  
+
+## Ansible in 3 Weeks: Cloud and Datacenter Automation  
+2021/07/09, 2021/07/16, 2021/07/23  
+<https://learning.oreilly.com/live-events/ansible-in-3-weeks-cloud-and-datacenter-automation/0636920056459/0636920056458/>  
+
+## Spark 3.1 First Steps 
+2021/07/08  
+<https://learning.oreilly.com/live-events/spark-31-first-steps/0636920371533/0636920056411/>  
+
+## Software Architecture Hour with Neal Ford: Distributed Systems with Vanya Seth  
+2021/07/08  
+<https://learning.oreilly.com/live-events/software-architecture-hour-with-neal-ford-distributed-systems-with-vanya-seth/0636920053270/0636920053269/> 
+
+
 # **2021 July**
 
-## Next Level Git - Master your content
+## Next Level Git - Master your content  
+2021/07/01  
 <https://learning.oreilly.com/attend/next-level-git-master-your-content/0636920190271/0636920058669/>  
-
 
 ## Introduction to Docker Compose
 <https://learning.oreilly.com/attend/introduction-to-docker-compose/0636920258124/0636920055946/> 
-
 
 # **2021 June**  
 
