@@ -138,7 +138,17 @@ G0oncor2020!
 
 ++MARK++  
 
-# ** 2022 **
+# ** 2022 **  
+## 
+## Fixing Data Quality at Scale with Data Observability
+2022/01/27 
+<https://learning.oreilly.com/live-events/fixing-data-quality-at-scale-with-data-observability/0636920508731/0636920066013/>  
+
+## 
+## AWS Web Application Development  
+2022/01/25
+<https://learning.oreilly.com/live-events/aws-web-application-development/0636920065519/0636920065518/>  
+
 ## Ansible in 4 Hours
 2022/01/21  
 <https://learning.oreilly.com/live-events/ansible-in-4-hours/0636920123842/0636920064471/>    
