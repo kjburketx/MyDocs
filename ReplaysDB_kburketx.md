@@ -98,6 +98,9 @@ h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>
 
 # Red Hat  
 
+## Red Hat: Analyze and expand automation with hosted services
+<https://isolate.menlosecurity.com/1/3735928009/https://onlinexperiences.com/Launch/Event.htm?ShowKey=182169>  
+
 ## Red Hat Ansible Automates  
 <https://isolate.menlosecurity.com/1/3735928009/https://events.redhat.com/profile/408425>  
 
@@ -139,7 +142,40 @@ G0oncor2020!
 ++MARK++  
 
 # ** 2022 **  
-## 
+## Getting Started with OpenShift
+2022/02/22
+<https://learning.oreilly.com/live-events/getting-started-with-openshift/0636920244301/0636920065160/>  
+
+## Kubernetes on AWS  
+2022/02/10  
+<https://learning.oreilly.com/live-events/kubernetes-on-aws/0636920359593/0636920067687/>  
+
+
+## Hands-on Kubernetes Deployment in 3 Weeks
+2022/02/04,2022/02/11,2022/02/18  
+<https://learning.oreilly.com/live-events/hands-on-kubernetes-deployment-in-3-weeks/0636920063329/0636920065189/>
+
+## Software Architecture Hour: What Makes a Good Software Architect with Venkat Subramaniam  
+2022/02/03 
+
+<https://learning.oreilly.com/live-events/software-architecture-hour-what-makes-a-good-software-architect-with-venkat-subramaniam/0636920068426/0636920068425/>  
+
+## Radar Talks: Rachel Roumeliotis on Technology Trends in 2022  
+2022/02/01
+
+<https://learning.oreilly.com/live-events/radar-talks-rachel-roumeliotis-on-technology-trends-in-2022/0636920068691/0636920068690/>  
+
+## AWS Global Networking in Terraform
+2022/02/01
+<https://learning.oreilly.com/live-events/aws-global-networking-in-terraform/0636920066438/0636920066437/> 
+
+## 9 Steps to Awesome with Kubernetes 
+2022/02/01  
+<https://learning.oreilly.com/live-events/9-steps-to-awesome-with-kubernetes/0636920196105/0636920067645/>  
+
+## Asynchronous JavaScript
+<https://learning.oreilly.com/live-events/asynchronous-javascript/0636920500988/0636920065851/> 
+
 ## Fixing Data Quality at Scale with Data Observability
 2022/01/27 
 <https://learning.oreilly.com/live-events/fixing-data-quality-at-scale-with-data-observability/0636920508731/0636920066013/>  
