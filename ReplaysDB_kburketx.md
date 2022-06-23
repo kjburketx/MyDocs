@@ -51,9 +51,12 @@ Leave your questions for the Q&A and comments now, during, and after the talk on
 ---
 
 ## **Superstream Series**  
+### Software Architecture Superstream: Domain-Driven Design and Event-Driven Architecture  
+09Mar2022  
+<https://learning.oreilly.com/live-events/software-architecture-superstream-domain-driven-design-and-event-driven-architecture/0636920064974/0636920064973/>  
 
 ### Infrastructure & Ops Superstream Series  
-- 27Jan2021  
+- 27Jan2022  
 
 <https://learning.oreilly.com/live-training/courses/infrastructure-ops-superstream-series-cicd/0636920051970/?utm_medium=email&utm_source=platform+B2C&utm_campaign=superstream&utm_content=20210128+reminder4+io>  
 
@@ -97,6 +100,20 @@ WEBCAST LINK:<https://event.on24.com/wcc/r/2649768/975E3E61100EA3E915BC28175050D
 h=aXjKFxnFCl1OwkTYiE7soe5vSMRJy3_Us11qSNa0gCs>  
 
 # Red Hat  
+## Red Hat: What’s new in Red Hat OpenShift Container Platform 4.10. 
+2022/03/30  
+- This webcast can now be viewed On-demand. 
+- Use the link below to enter the webcast at any time.
+-- WEBCAST LINK:
+<https://isolate.menlosecurity.com/1/3735928009/https://event.on24.com/wcc/r/3694205/F8D17C82FF4BD76C817AAD591B4DD027?mode=login&email=kevin.burke@oncor.com> 
+ 
+<https://event.on24.com/wcc/r/3694205/F8D17C82FF4BD76C817AAD591B4DD027?mode=login&email=kevin.burke@oncor.com>  
+EMAIL:  kevin.burke@oncor.com 
+  
+## Red Hat: Using OpenShift GitOps to manage OpenShift post configuration  
+2022/03/30
+<https://isolate.menlosecurity.com/1/3735928009/https://onlinexperiences.com/Launch/Event.htm?ShowKey=188764>  
+- Slides: M:\eBooks\RedHat032822_Customer_Lifecycle_v2.pdf
 
 ## Red Hat: Analyze and expand automation with hosted services
 <https://isolate.menlosecurity.com/1/3735928009/https://onlinexperiences.com/Launch/Event.htm?ShowKey=182169>  
@@ -142,6 +159,34 @@ G0oncor2020!
 ++MARK++  
 
 # ** 2022 **  
+
+## <Modern Frontend Web Development in 5 Weeks
+2022/06/01
+<https://learning.oreilly.com/live-events/modern-frontend-web-development-in-5-weeks/0636920056967/0636920072405/>
+
+
+## Hands-On Data Visualization with ggplot2  
+2022/04/19
+<https://learning.oreilly.com/live-events/hands-on-data-visualization-with-ggplot2/0636920060921/0636920070392/>
+
+
+## Infrastructure & Ops Hour with Sam Newman: Data Mesh with Zhamak Dehghani
+2022/04/06
+<https://learning.oreilly.com/live-events/infrastructure-ops-hour-with-sam-newman-data-mesh-with-zhamak-dehghani/0636920065304/0636920065303/> 
+
+
+## Ansible Beyond the Basics in 3 Weeks  
+2022/03/14, 2022/03/21, 2022/03/28
+<https://learning.oreilly.com/live-events/ansible-beyond-the-basics-in-3-weeks/0636920066513/0636920066512/>  
+
+## Software Architecture Superstream: Domain-Driven Design and Event-Driven Architecture  
+2022/03/09  
+<https://learning.oreilly.com/live-events/software-architecture-superstream-domain-driven-design-and-event-driven-architecture/0636920064974/0636920064973/>  
+
+## Software Architecture Hour: What Makes a Programming Language with Chelsea Troy
+2022/03/03  
+<https://learning.oreilly.com/live-events/software-architecture-hour-what-makes-a-programming-language-with-chelsea-troy/0636920069378/0636920069377/>  
+
 ## Getting Started with OpenShift
 2022/02/22
 <https://learning.oreilly.com/live-events/getting-started-with-openshift/0636920244301/0636920065160/>  
@@ -157,7 +202,6 @@ G0oncor2020!
 
 ## Software Architecture Hour: What Makes a Good Software Architect with Venkat Subramaniam  
 2022/02/03 
-
 <https://learning.oreilly.com/live-events/software-architecture-hour-what-makes-a-good-software-architect-with-venkat-subramaniam/0636920068426/0636920068425/>  
 
 ## Radar Talks: Rachel Roumeliotis on Technology Trends in 2022  
