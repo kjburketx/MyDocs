@@ -159,6 +159,155 @@ G0oncor2020!
 ++MARK++  
 
 # ** 2022 **  
+## A Hands-On Workshop on Data Visualization Fundamentals  
+2022/10/07  
+https://learning.oreilly.com/live-events/a-hands-on-workshop-on-data-visualization-fundamentals/0636920073479/0636920080240/
+
+## AWS Certified Solutions Architect - Associate SAA-C03 Bootcamp  
+20222/10/04
+https://learning.oreilly.com/live-events/aws-certified-solutions-architect-associate-saa-c03-bootcamp/0636920055432/0636920077437/
+
+## Leadership communication skills for managers  
+2022/10/04
+https://learning.oreilly.com/live-events/leadership-communication-skills-for-managers/0636920054671/0636920075840/  
+
+## Getting Started with Cloud Computing  
+2022/10/03
+https://learning.oreilly.com/live-events/getting-started-with-cloud-computing/0636920223856/0636920079207/  
+
+## From IT to DevOps in 4 Hours  
+2022/09/30
+https://learning.oreilly.com/live-events/from-it-to-devops-in-4-hours/0636920057528/0636920078464/
+
+## Terraform In the Cloud  
+2022/09/29
+https://learning.oreilly.com/live-events/terraform-in-the-cloud/0636920401407/0636920080117/  
+
+
+## Understanding business strategy
+2022/09/29
+https://learning.oreilly.com/live-events/understanding-business-strategy/0636920177616/0636920079021/  
+
+
+## Software Architecture Superstream: Software Architecture Fundamentals 
+2022/09/28
+https://learning.oreilly.com/live-events/software-architecture-superstream-software-architecture-fundamentals/0636920064981/0636920064980/  
+
+## AWS Certified Cloud Practitioner Certification Crash Course  
+2022/09/28
+https://learning.oreilly.com/live-events/aws-certified-cloud-practitioner-certification-crash-course/0636920074171/0636920077642/  
+
+## Hands-on with Amazon Route 53, CloudFront, and Disaster Recovery 
+2022/09/26
+https://learning.oreilly.com/live-events/hands-on-with-amazon-route-53-cloudfront-and-disaster-recovery/0636920071405/0636920078342/  
+
+## Effective Project Management Skills  
+2022/09/23
+https://learning.oreilly.com/live-events/effective-project-management-skills/0636920067245/0636920077690/
+
+## Stressbusting and Resilience Building for Peak Performance
+2022/09/23
+https://learning.oreilly.com/live-events/stressbusting-and-resilience-building-for-peak-performance/0636920078190/0636920078189/  
+
+## Hands-on with AWS VPCs  
+2022/09/21  
+
+https://learning.oreilly.com/live-events/hands-on-with-aws-vpcs/0636920078212/0636920078211/  
+
+## Combating Cyber Attacks  
+2022/09/23  
+https://learning.oreilly.com/live-events/combating-cyber-attacks/0636920073405/0636920078445/  
+
+
+## Analyzing Architecture Risk  
+2022/09/19  
+https://learning.oreilly.com/live-events/analyzing-architecture-risk/0636920054370/0636920075768/  
+
+## Mastering Elasticsearch  
+2022/09/16
+https://learning.oreilly.com/live-events/mastering-elasticsearch/0636920060295/0636920072698/  
+
+## Incidence Response Fundamentals
+2022/09/13
+https://learning.oreilly.com/live-events/incidence-response-fundamentals/0636920078587/0636920078586/  
+
+## Supercharged Teams  
+2022/09/12  
+https://learning.oreilly.com/live-events/supercharged-teams/0636920078194/0636920078193/
+
+## Packet Analysis Using Wireshark  
+2022/09/08
+https://learning.oreilly.com/live-events/packet-analysis-using-wireshark/0636920075846/0636920076709/
+
+## Introduction to Time Management Skills  
+2022/09/
+https://learning.oreilly.com/live-events/introduction-to-time-management-skills/0636920054563/0636920077810/  
+
+
+## CISSP Management Domains in 2 Weeks: Preparing for the exam  
+2020/09/06
+https://learning.oreilly.com/live-events/cissp-management-domains-in-2-weeks-preparing-for-the-exam/0636920055873/0636920080012/  
+
+
+## Hands-On Refactoring
+2022/09/01
+https://learning.oreilly.com/live-events/hands-on-refactoring/0636920058616/0636920077385/  
+
+## Visual Design Thinking for Software Requirements  
+2022/03/31
+https://learning.oreilly.com/live-events/visual-design-thinking-for-software-requirements/0636920077085/0636920077084/ 
+
+## Introduction to Logstash  
+2022/08/26
+https://learning.oreilly.com/live-events/introduction-to-logstash/0636920060702/0636920076900/  
+
+##  Event-Driven Architecture and Data 
+2022/08/16
+https://learning.oreilly.com/live-events/event-driven-architecture-and-data/0636920053458/0636920073847/  
+
+## Graph Data Structures and Algorithms from Scratch  
+2022/08/12
+https://learning.oreilly.com/live-events/graph-data-structures-and-algorithms-from-scratch/0636920071713/0636920077252/  
+
+## CI/CD and DevOps in 3 Weeks  
+2022/08/10  
+https://learning.oreilly.com/live-events/cicd-and-devops-in-3-weeks/0636920072763/0636920072762/  
+
+## Mastering Microsoft Excel pivot tables  
+2022/08/03  
+https://learning.oreilly.com/live-events/mastering-microsoft-excel-pivot-tables/0636920059840/0636920075296/
+  
+
+## Peer Code Review Best Practices  
+2022/08/02
+https://learning.oreilly.com/live-events/peer-code-review-best-practices/0636920074783/0636920074782/  
+
+## Fundamentals of Software Engineering in 3 weeks  
+2022/08/01
+https://learning.oreilly.com/live-events/fundamentals-of-software-engineering-in-3-weeks/0636920057747/0636920074860/  
+
+##  Helm Charts with Kubernetes  
+2022/07/29  
+https://learning.oreilly.com/live-events/helm-charts-with-kubernetes/0636920074683/0636920074682/  
+
+
+## Design Patterns for Distributed Systems  
+2022/
+https://learning.oreilly.com/live-events/design-patterns-for-distributed-systems/0636920061982/0636920073256/  
+
+## Certified Kubernetes Security Specialist (CKS) Crash Course 
+2022/07/19
+https://learning.oreilly.com/live-events/certified-kubernetes-security-specialist-cks-crash-course/0636920072272/0636920073448/  
+
+## Packet Analysis Using Wireshark  
+2022/07/14
+https://learning.oreilly.com/live-events/packet-analysis-using-wireshark/0636920075846/0636920075845/  
+
+## 
+
+
+
+++ Catch Up 2022/10/08 ++
 
 ## <Modern Frontend Web Development in 5 Weeks
 2022/06/01
