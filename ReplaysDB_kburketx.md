@@ -155,10 +155,42 @@ G0oncor2020!
 ---  
 
 
-
+++NEXT++
 ++MARK++  
 
 # ** 2022 **  
+##  Introduction to Logstash
+2022/08/26
+<https://learning.oreilly.com/live-events/introduction-to-logstash/0636920060702/0636920076900/>  
+
+## Event-Driven Architecture and Data
+2022/08/16
+<https://learning.oreilly.com/live-events/event-driven-architecture-and-data/0636920053458/0636920073847/>  
+
+
+## Graph Data Structures and Algorithms from Scratch
+2022/08/12
+<https://learning.oreilly.com/live-events/graph-data-structures-and-algorithms-from-scratch/0636920071713/0636920077252/>  
+
+
+## CI/CD and DevOps in 3 Weeks
+2022/08/10, 2022/08/17, 2022/08/24
+<https://learning.oreilly.com/live-events/cicd-and-devops-in-3-weeks/0636920072763/0636920072762/>  
+
+## Mastering Microsoft Excel Pivot Tables
+2022/08/03
+<https://learning.oreilly.com/live-events/mastering-microsoft-excel-pivot-tables/0636920059840/0636920075296/>  
+
+
+
+
+## Certified Kubernetes Security Specialist (CKS) Crash Course
+2022/07/19, 2022/07/20
+<https://learning.oreilly.com/live-events/certified-kubernetes-security-specialist-cks-crash-course/0636920072272/0636920073448/>  
+
+## Packet Analysis Using Wireshark
+2022/07/14  
+<https://learning.oreilly.com/live-events/packet-analysis-using-wireshark/0636920075846/0636920075845/>
 
 ## <Modern Frontend Web Development in 5 Weeks
 2022/06/01
@@ -1167,6 +1199,8 @@ Sean Kane
 ## Getting Started with Google Cloud Platform (GCP)
 <https://learning.oreilly.com/live-training/courses/getting-started-with-google-cloud-platform-gcp/0636920435594/>  
 
+
+++LAST++
 ---
 # Below are classes no longer available for re-play -> ACM Account Issue  
 --- 
