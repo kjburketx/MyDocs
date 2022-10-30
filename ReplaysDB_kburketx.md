@@ -159,6 +159,54 @@ G0oncor2020!
 ++MARK++  
 
 # ** 2022 **  
+## TCP/IP Deep Dive with Wireshark for NetOps and SecOps  
+<https://learning.oreilly.com/live-events/tcpip-deep-dive-with-wireshark-for-netops-and-secops/0636920078983/0636920078982/>  
+
+## Red Hat Certified Specialist in OpenShift Administration (EX280) Crash Course  
+2022/10/19
+<https://learning.oreilly.com/live-events/red-hat-certified-specialist-in-openshift-administration-ex280-crash-course/0636920053762/0636920076080/>  
+
+
+## Cloud Superstream: AWS  
+2022/10/19
+<https://learning.oreilly.com/live-events/cloud-superstream-aws/0636920075094/0636920075093/>  
+
+
+
+## Border Gateway Protocol (BGP) Policies in Routed Networks  
+2022/10/21
+<https://learning.oreilly.com/live-events/border-gateway-protocol-bgp-policies-in-routed-networks/0636920079358/0636920079357/>  
+
+
+## Hands-on with AWS CloudFormation  
+2022/10/17
+<https://learning.oreilly.com/live-events/hands-on-with-aws-cloudformation/0636920078993/0636920078992/>  
+
+
+## Learn Terraform in 4 Hours
+2022/10/14
+<https://learning.oreilly.com/live-events/learn-terraform-in-4-hours/0636920066436/0636920079138/>  
+
+## Automating DevOps with GitOps and Kubernetes in 3 Weeks  
+2022/10/14
+<https://learning.oreilly.com/live-events/automating-devops-with-gitops-and-kubernetes-in-3-weeks/0636920055233/0636920075795/>  
+
+## 90 minutes to Better User Stories and Backlog Management  
+2022/10/13
+<https://learning.oreilly.com/live-events/90-minutes-to-better-user-stories-and-backlog-management/0636920282877/0636920079609/>  
+
+## Fundamentals of Engineering Management  
+2022/10/12
+<https://learning.oreilly.com/live-events/fundamentals-of-engineering-management/0636920446262/0636920080867/>  
+
+## Managing your manager  
+2022/10/12
+<https://learning.oreilly.com/live-events/managing-your-manager/0636920162872/0636920079553/>  
+
+## Kubernetes Observability and Monitoring
+2022/10/11
+<https://learning.oreilly.com/live-events/kubernetes-observability-and-monitoring/0636920075849/0636920079570/>
+
 ## A Hands-On Workshop on Data Visualization Fundamentals  
 2022/10/07  
 https://learning.oreilly.com/live-events/a-hands-on-workshop-on-data-visualization-fundamentals/0636920073479/0636920080240/
@@ -248,7 +296,6 @@ https://learning.oreilly.com/live-events/introduction-to-time-management-skills/
 2020/09/06
 https://learning.oreilly.com/live-events/cissp-management-domains-in-2-weeks-preparing-for-the-exam/0636920055873/0636920080012/  
 
-
 ## Hands-On Refactoring
 2022/09/01
 https://learning.oreilly.com/live-events/hands-on-refactoring/0636920058616/0636920077385/  
@@ -302,10 +349,6 @@ https://learning.oreilly.com/live-events/certified-kubernetes-security-specialis
 ## Packet Analysis Using Wireshark  
 2022/07/14
 https://learning.oreilly.com/live-events/packet-analysis-using-wireshark/0636920075846/0636920075845/  
-
-## 
-
-
 
 ++ Catch Up 2022/10/08 ++
 
@@ -373,7 +416,6 @@ https://learning.oreilly.com/live-events/packet-analysis-using-wireshark/0636920
 2022/01/27 
 <https://learning.oreilly.com/live-events/fixing-data-quality-at-scale-with-data-observability/0636920508731/0636920066013/>  
 
-## 
 ## AWS Web Application Development  
 2022/01/25
 <https://learning.oreilly.com/live-events/aws-web-application-development/0636920065519/0636920065518/>  
@@ -386,11 +428,9 @@ https://learning.oreilly.com/live-events/packet-analysis-using-wireshark/0636920
 2022/01/19  
 <https://learning.oreilly.com/live-events/getting-started-with-continuous-delivery/0636920059767/0636920067805/>  
 
-
 ## AWS Certified Solutions Architect: Professional (SAP-C01) Bootcamp
 2022/01/19-2022/01/20  
 <https://learning.oreilly.com/live-events/aws-certified-solutions-architect-professional-sap-c01-bootcamp/0636920058619/0636920066419/> 
-
 
 ## AWS Event-Driven Automation and Operations
 ### 2022/01/18
@@ -408,7 +448,6 @@ https://learning.oreilly.com/live-events/packet-analysis-using-wireshark/0636920
 2022/01/11  
 <https://learning.oreilly.com/live-events/kustomize-fundamentals/0636920061420/0636920064448/>  
 
-
 ## Threading in Python
 2022/01/11
 <https://learning.oreilly.com/live-events/threading-in-python/0636920370437/0636920064403/>  
@@ -417,9 +456,7 @@ https://learning.oreilly.com/live-events/packet-analysis-using-wireshark/0636920
 2022/01/10  
 <https://learning.oreilly.com/live-events/radar-talks-phil-balagtas-on-futures-design-and-thinking/0636920064928/0636920064927/>  
 
-
 # **2021**  
-
 
 ## Building Microservices with Containers, Kubernetes and Istio
 Published by Pearson  
