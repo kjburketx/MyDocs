@@ -159,24 +159,70 @@ G0oncor2020!
 ++MARK++  
 
 # ** 2022 **  
-## TCP/IP Deep Dive with Wireshark for NetOps and SecOps  
-<https://learning.oreilly.com/live-events/tcpip-deep-dive-with-wireshark-for-netops-and-secops/0636920078983/0636920078982/>  
+## Infrastructure & Ops Superstream: Operationalizing Kubernetes  
+2022/11/09  
+<https://learning.oreilly.com/live-events/infrastructure-ops-superstream-operationalizing-kubernetes/0636920066210/0636920066209/>  
 
-## Red Hat Certified Specialist in OpenShift Administration (EX280) Crash Course  
-2022/10/19
-<https://learning.oreilly.com/live-events/red-hat-certified-specialist-in-openshift-administration-ex280-crash-course/0636920053762/0636920076080/>  
+## Introduction to Docker CI/CD  
+2022/11/07
+<https://learning.oreilly.com/live-events/introduction-to-docker-cicd/0636920255345/0636920077880/>
 
+## AWS Certified Solutions Architect – Professional (SAP-C02) Crash Course  
+2022/11/07
+<https://learning.oreilly.com/live-events/aws-certified-solutions-architect-professional-sap-c02-crash-course/0636920060215/0636920076420/>
+
+
+## Red Hat Certified System Administrator (RHCSA) RHEL 9 Crash Course  
+2022/11/07
+<https://learning.oreilly.com/live-events/red-hat-certified-system-administrator-rhcsa-rhel-9-crash-course/0636920077845/0636920077851/>
+
+
+## CCSP - Certified Cloud Security Professional Crash Course  
+2022/11/02
+<https://learning.oreilly.com/live-events/ccsp-certified-cloud-security-professional-crash-course/0636920066432/0636920081259/>  
+
+
+## Designing Well-Architected Frameworks in Two Weeks  
+2022/11/01
+<https://learning.oreilly.com/live-events/designing-well-architected-frameworks-in-two-weeks/0636920080225/0636920080224/>
+
+
+## AWS Global Networking in Terraform  
+2022/10/31
+<https://learning.oreilly.com/live-events/aws-global-networking-in-terraform/0636920066438/0636920079129/>
+
+
+## Ansible in 4 Hours  
+2022/10/31
+<https://learning.oreilly.com/live-events/ansible-in-4-hours/0636920123842/0636920077229/>  
+
+
+## Essential Product Management Skills
+2022/10/28
+<https://learning.oreilly.com/live-events/essential-product-management-skills/0636920075808/0636920079763/>
+
+
+## MITRE ATT&CK Fundamentals  
+2022/10/26
+<https://learning.oreilly.com/live-events/mitre-attck-fundamentals/0636920075704/0636920077132/>
+
+## Border Gateway Protocol (BGP) Policies in Routed Networks  
+2022/10/21
+<https://learning.oreilly.com/live-events/border-gateway-protocol-bgp-policies-in-routed-networks/0636920079358/0636920079357/> 
 
 ## Cloud Superstream: AWS  
 2022/10/19
 <https://learning.oreilly.com/live-events/cloud-superstream-aws/0636920075094/0636920075093/>  
+ 
+
+## TCP/IP Deep Dive with Wireshark for NetOps and SecOps
+2022/10/17  
+<https://learning.oreilly.com/live-events/tcpip-deep-dive-with-wireshark-for-netops-and-secops/0636920078983/0636920078982/>  
 
 
-
-## Border Gateway Protocol (BGP) Policies in Routed Networks  
-2022/10/21
-<https://learning.oreilly.com/live-events/border-gateway-protocol-bgp-policies-in-routed-networks/0636920079358/0636920079357/>  
-
+## Red Hat Certified Specialist in OpenShift Administration (EX280) Crash Course  
+2022/10/19
+<https://learning.oreilly.com/live-events/red-hat-certified-specialist-in-openshift-administration-ex280-crash-course/0636920053762/0636920076080/>  
 
 ## Hands-on with AWS CloudFormation  
 2022/10/17
