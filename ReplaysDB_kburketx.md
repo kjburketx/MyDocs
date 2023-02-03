@@ -158,7 +158,189 @@ G0oncor2020!
 ++NEXT++
 ++MARK++  
 
-# ** 2022 **  
+# ** 2023 **
+
+
+
+## New Manager Bootcamp  
+<https://learning.oreilly.com/live-events/new-manager-bootcamp/0636920060731/0636920083584/>  
+
+## Terraform in the Cloud  
+<https://learning.oreilly.com/live-events/terraform-in-the-cloud/0636920401407/0636920083739/> 
+
+## Automating DevOps with GitOps and Kubernetes in 3 Weeks  
+<https://learning.oreilly.com/live-events/automating-devops-with-gitops-and-kubernetes-in-3-weeks/0636920055233/0636920082159/> 
+
+## Using Ansible Automation Platform and AWX  
+<https://learning.oreilly.com/live-events/using-ansible-automation-platform-and-awx/0636920367628/0636920082891/>  
+
+## Getting Started with AWS Lambda Automation
+<https://learning.oreilly.com/live-events/jupyterlab-foundations/0636920081391/0636920081390/>
+
+## JupyterLab Foundations  
+<https://learning.oreilly.com/live-events/jupyterlab-foundations/0636920081391/0636920081390/>  
+
+## Multi-cloud Comparison: AWS, Azure, and Google Cloud  
+<https://learning.oreilly.com/live-events/multi-cloud-comparison-aws-azure-and-google-cloud/0636920414391/0636920082697/>  
+
+## AWS Certification Prep: Developer - Associate  
+<https://learning.oreilly.com/live-events/aws-certification-prep-developer-associate/0636920410744/0636920086387/>  
+
+## Software Architecture Superstream: Software Architecture Trade-Offs
+<https://learning.oreilly.com/live-events/software-architecture-superstream-software-architecture-trade-offs/0636920083581/0636920083579/>  
+
+
+## AWS Technical Essentials  
+<https://learning.oreilly.com/live-events/aws-technical-essentials/0636920192039/0636920082775/>  
+
+## Algorithms for Everybody  
+<https://learning.oreilly.com/live-events/algorithms-for-everybody/0636920064925/0636920082693/>
+
+## AWS Global Networking in Terraform  
+<https://learning.oreilly.com/live-events/aws-global-networking-in-terraform/0636920066438/0636920082907/>  
+
+## Leadership Bootcamp
+<https://learning.oreilly.com/live-events/leadership-bootcamp/0636920078225/0636920080180/> 
+
+## Software Architecture Hour: The Future of Software Engineering with Grady Booch  
+<https://learning.oreilly.com/live-events/software-architecture-hour-the-future-of-software-engineering-with-grady-booch/0636920085745/0636920085744/>
+
+
+## Cloud-base Process Automation for decision Makers
+<https://learning.oreilly.com/live-events/cloud-based-process-automation-for-decision-makers/0636920081902/0636920081901/>  
+
+## Infrastructure & Ops Superstream: Platform Engineering
+<https://learning.oreilly.com/live-events/infrastructure-ops-superstream-platform-engineering/0636920084412/0636920084411/>
+
+## Hands-On with AWS S3  
+<https://learning.oreilly.com/live-events/hands-on-with-aws-s3/0636920066047/0636920083209/>
+
+## Learn Infrastructure as Code with the AWS CDK  
+<https://learning.oreilly.com/live-events/learn-infrastructure-as-code-with-the-aws-cdk/0636920083065/0636920083064/>  
+
+## Advanced Microsoft Teams  
+<https://learning.oreilly.com/live-events/advanced-microsoft-teams/0636920081774/0636920081773/>  
+
+## Hands-On with AWS EC2 and EBS  
+<https://learning.oreilly.com/live-events/hands-on-with-aws-ec2-and-ebs/0636920068551/0636920083204/>  
+
+## Software architecture by example
+<https://learning.oreilly.com/live-events/software-architecture-by-example/0636920261797/0636920082472/>  
+
+## Practical Amazon Elastic Kubernetes Service (EKS) for the Real World 
+<https://learning.oreilly.com/live-events/practical-amazon-elastic-kubernetes-service-eks-for-the-real-world/0636920074620/0636920083154/>  
+
+# ** 2022 **
+
+##AWS Certified Database - Specialty Crash Course
+<https://learning.oreilly.com/live-events/aws-certified-database-specialty-crash-course/0636920403142/0636920081903/>  
+
+## Blockchain, Bitcoin, Crypto, NFSs and the Metaverse
+<https://learning.oreilly.com/live-events/blockchain-bitcoin-crypto-nfts-and-the-metaverse/0636920067302/0636920081712/> 
+
+## Hands-On Python Foundations in 3 Weeks
+<https://learning.oreilly.com/live-events/hands-on-python-foundations-in-3-weeks/0636920066509/0636920076794/>
+
+## Fundamentals of Software Engineering in 3 Weeks
+<https://learning.oreilly.com/live-events/fundamentals-of-software-engineering-in-3-weeks/0636920057747/0636920080462/>  
+
+
+## Introduction to Statistics and Data Analysis with Microsoft Excel in 3 Weeks
+<https://learning.oreilly.com/live-events/introduction-to-statistics-and-data-analysis-with-microsoft-excel-in-3-weeks/0636920080288/0636920080287/>  
+
+## Applying Monte Carlo simulations in Finance  
+<https://learning.oreilly.com/live-events/applying-monte-carlo-simulations-in-finance/0636920348559/0636920080889/>  
+
+## Kubernetes Intermediate in 3 Weeks - with Interactivity
+<https://learning.oreilly.com/live-events/kubernetes-intermediate-in-3-weekswith-interactivity/0636920056954/0636920076235/>  
+
+## Getting Started with AWS
+<https://learning.oreilly.com/live-events/getting-started-with-aws/0636920126294/0636920076827/>  
+
+## 6 Rules for Communicating with Management
+<https://learning.oreilly.com/live-events/6-rules-for-communicating-with-management/0636920080772/0636920080770/>  
+
+## Hashicorp Certified Terraform Associate Certification Crash Course
+<https://learning.oreilly.com/live-events/hashicorp-certified-terraform-associate-certification-crash-course/0636920072267/0636920079626/>  
+
+
+## Leadership Bootcamp
+<https://learning.oreilly.com/live-events/leadership-bootcamp/0636920078225/0636920080170/>  
+
+## Software Architecture Hour: Software Design Versus Software Aarchitecture with Mark Richards and Raju Gandhi
+<https://learning.oreilly.com/live-events/software-architecture-hour-software-design-versus-software-architecture-with-mark-richards-and-raju-gandhi/0636920084332/0636920084331/>
+
+## Infrastructure & Ops Hour: Platform Engineering with Camille Fournier
+<https://learning.oreilly.com/live-events/infrastructure-ops-hour-platform-engineering-with-camille-fournier/0636920065341/0636920065339/>
+
+## Agile for distributed teams in 90 minutes
+<https://learning.oreilly.com/live-events/agile-for-distributed-teams-in-90-minutes/0636920067965/0636920080754/> 
+
+
+## AWS Architecture Automation and Infrastructure Deployment
+<https://learning.oreilly.com/live-events/aws-architecture-automation-and-infrastructure-deployment/0636920303473/0636920076817/> 
+
+## API Styles Fundamentals
+<https://learning.oreilly.com/live-events/api-styles-fundamentals/0636920078591/0636920078590/>
+
+## AWS Certified Solutions Architect Prep Session
+<https://learning.oreilly.com/live-events/aws-certified-solutions-architect-prep-session/0636920328803/0636920078017/>
+
+## Mastering Technical Presentations by Example
+<https://learning.oreilly.com/live-events/mastering-technical-presentations-by-example/0636920054747/0636920076790/>
+
+## Fundamentals of Technical Writing
+<https://learning.oreilly.com/live-events/fundamentals-of-technical-writing/0636920077082/0636920083395/>  
+
+
+## Visualization and presentation of data  
+<https://learning.oreilly.com/live-events/visualization-and-presentation-of-data/0636920059155/0636920077998/>  
+
+## Software Architecture Superstream: Architecture Meets Data 
+<https://learning.oreilly.com/live-events/software-architecture-superstream-architecture-meets-data/0636920064984/0636920064983/>  
+
+## Job Search Bootcamp
+<https://learning.oreilly.com/live-events/job-search-bootcamp/0636920070694/0636920080793/>  
+
+## AWS core architecture concepts  
+<https://learning.oreilly.com/live-events/aws-core-architecture-concepts/0636920096276/0636920076256/>  
+
+
+## From developer to software architect
+<https://learning.oreilly.com/live-events/zero-trust-security-fundamentals/0636920066250/0636920076496/> 
+
+
+## Zero Trust Security Fundamentals  
+<https://learning.oreilly.com/live-events/zero-trust-security-fundamentals/0636920066250/0636920076496/> 
+
+
+## AWS Ceertified Advanced Networking - Specialty (ANS-C01) Crash Course  
+<https://learning.oreilly.com/live-events/aws-certified-advanced-networking-specialty-ans-c01-crash-course/0636920382539/0636920081280/> 
+
+## Cloud Auditing Principles  
+<https://learning.oreilly.com/live-events/cloud-auditing-principles/0636920081380/0636920081379/> 
+
+
+## Amazon Web Services (AWS) Security Crash Course  
+<https://learning.oreilly.com/live-events/amazon-web-services-aws-security-crash-course/0636920137504/0636920081269/>
+
+## Code Reading in Practice  
+<https://learning.oreilly.com/live-events/code-reading-in-practice/0636920080641/0636920080640/>  
+
+## Agile Analysis and Planning  
+<https://learning.oreilly.com/live-events/agile-analysis-and-planning/0636920061988/0636920081300/>  
+
+
+## Docker Security Deep Dive
+<https://learning.oreilly.com/live-events/docker-security-deep-dive/0636920080706/0636920080705/> 
+
+## Architecture: The Hard Parts  
+<https://learning.oreilly.com/live-events/architecture-the-hard-parts/0636920395522/0636920076271/>
+
+## Apache Spark ML First Steps
+2022/11/11
+<https://learning.oreilly.com/live-events/apache-spark-ml-first-steps/0636920384229/0636920080315/>  
+
 ## Infrastructure & Ops Superstream: Operationalizing Kubernetes  
 2022/11/09  
 <https://learning.oreilly.com/live-events/infrastructure-ops-superstream-operationalizing-kubernetes/0636920066210/0636920066209/>  
