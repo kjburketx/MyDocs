@@ -159,10 +159,11 @@ G0oncor2020!
 ++MARK++  
 
 # ** 2023 **
+## AWS Administration Essentials 
+<https://learning.oreilly.com/live-events/aws-administration-essentials/0636920386056/0636920082807/>  
 
 ## Hands-on with Amazon Route 53, CloudFront, and Disaster Recovery  
 <https://learning.oreilly.com/live-events/hands-on-with-amazon-route-53-cloudfront-and-disaster-recovery/0636920071405/0636920084803/>  
-
 
 ## AWS Event-Driven Automation and Operations  
 <https://learning.oreilly.com/live-events/aws-event-driven-automation-and-operations/0636920065014/0636920084656/>  
