@@ -159,6 +159,23 @@ G0oncor2020!
 ++MARK++  
 
 # ** 2023 **
+
+## Git Troubleshooting  
+<https://learning.oreilly.com/live-events/git-troubleshooting/0636920059739/0636920084518/>
+
+## Jira for Agile Projects  
+<https://learning.oreilly.com/live-events/jira-for-agile-projects/0636920072956/0636920083857/>
+
+## Learn Infrastructure as Code with Teraform  
+<https://learning.oreilly.com/live-events/learn-infrastructure-as-code-with-terraform/0636920077731/0636920084510/>
+
+## Data Engineering from Notebook to Production  
+<https://learning.oreilly.com/live-events/data-engineering-from-notebook-to-production/0636920078219/0636920085076/>
+
+## API Security Bootcamp
+<https://learning.oreilly.com/live-events/api-security-bootcamp/0636920083103/0636920083102/> 
+
+
 ## AWS Administration Essentials 
 <https://learning.oreilly.com/live-events/aws-administration-essentials/0636920386056/0636920082807/>  
 
