@@ -160,6 +160,13 @@ G0oncor2020!
 
 # ** 2023 **
 
+## Advanced Jira for Agile Projects  
+<https://learning.oreilly.com/live-events/advanced-jira-for-agile-projects/0636920086083/0636920086082/>  
+
+
+
+
+
 ## Git Troubleshooting  
 <https://learning.oreilly.com/live-events/git-troubleshooting/0636920059739/0636920084518/>
 
